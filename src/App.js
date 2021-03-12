@@ -1,25 +1,233 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
 
-function App() {
+import gibson from "./images/gibson.png";
+import guitarraelectrica from "./images/guitarraelectrica.png";
+import guitarraelectricaprs from "./images/guitarraelectricaprs.png";
+import ibanez from "./images/ibanez.png";
+import lespaul from "./images/lespaul.png";
+import vanhalen from "./images/vanhalen.png";
+import bateria1tom from "./images/bateria1tom.png";
+import bateria2bombo from "./images/bateria2bombo.png";
+import bateria2tom from "./images/bateria2tom.png";
+import bateria3tom from "./images/bateria3tom.png";
+import bateria4tom from "./images/bateria4tom.png";
+import bateria5tom from "./images/bateria5tom.png";
+import bajogl from "./images/bajog&l.png";
+import fender from "./images/fender.png";
+import fenderviolet from "./images/fenderviolet.png";
+import gl from "./images/g&l.png";
+import ibanezbass from "./images/ibanezbass.png";
+import ibanezbasses from "./images/ibanezbasses.png";
+import korg from "./images/korg.png";
+import montage from "./images/montage.png";
+import motif from "./images/motif.png";
+import nordstage from "./images/nordstage.png";
+import roland from "./images/roland.png";
+import roland2 from "./images/roland2.png";
+import monitordb from "./images/monitordb.png";
+import monitordbL from "./images/monitordbL.png";
+import monitor from "./images/monitor.png";
+import monitorL from "./images/monitorL.png";
+import sidefill4 from "./images/sidefill4.png";
+import sidefill4L from "./images/sidefill4L.png";
+import sidefillarray from "./images/sidefillarray.png";
+import sidefillarrayL from "./images/sidefillarrayL.png";
+import sidefillpuntual from "./images/sidefillpuntual.png";
+import sidefillpuntualL from "./images/sidefillpuntualL.png";
+import sidefillt from "./images/sidefillt.png";
+import sidefilltL from "./images/sidefilltL.png";
+import sidetw from "./images/sidetw.png";
+import sidetwL from "./images/sidetwL.png";
+import substanitch from "./images/substanitch.png";
+import substanitchL from "./images/substanitchL.png";
+import c3500 from "./images/c3500.png";
+import cl5 from "./images/cl5.png";
+import sd10 from "./images/sd10.png";
+import wings from "./images/wings.png";
+import lv1 from "./images/lv1.png";
+import mac from "./images/mac.png";
+import corriente from "./images/snakes/corriente.png";
+import s6l from "./images/s6l.png";
+import sq6 from "./images/sq6.png";
+import x32 from "./images/x32.png";
+import snake8cha from "./images/snakes/snake8cha.png";
+import soundtools from "./images/snakes/soundtools.png";
+import snake12cha from "./images/snakes/snake12cha.png";
+import directbox1 from "./images/directbox/directbox1.png";
+import directbox2 from "./images/directbox/directbox2.png";
+import directbox3 from "./images/directbox/directbox3.png";
+import stand from "./images/rfmic/stand.png";
+import stand1 from "./images/rfmic/stand1.png";
+import stand2 from "./images/rfmic/stand2.png";
+import mano from "./images/rfmic/mano.png";
+import manoshure from "./images/rfmic/manoshure.png";
+import sm58 from "./images/rfmic/sm58.png";
+import antena1 from "./images/rfmic/antena1.png";
+import antena from "./images/rfmic/antena.png";
+import helicoidal from "./images/rfmic/helicoidal.png";
+import antena1L from "./images/rfmic/antena1L.png";
+import antenaL from "./images/rfmic/antenaL.png";
+import helicoidalL from "./images/rfmic/helicoidalL.png";
+import congadoble from "./images/Percu/congadoble.png";
+import congadoble2 from "./images/Percu/congadoble2.png";
+import accesorios from "./images/Percu/accesorios.png";
+import bongo1 from "./images/Percu/bongo1.png";
+import conga1 from "./images/Percu/conga1.png";
+import conga2 from "./images/Percu/conga2.png";
+import conga3 from "./images/Percu/conga3.png";
+import block from "./images/Percu/block.png";
+import bongo3 from "./images/Percu/bongo3.png";
+import cajon1 from "./images/Percu/cajon1.png";
+import cajon from "./images/Percu/cajon.png";
+import saxofon from "./images/vientos/saxofon.png";
+import trompeta from "./images/vientos/trompeta.png";
+import trombom from "./images/vientos/trombom.png";
+import chime from "./images/Percu/chime.png";
+import cowbell from "./images/Percu/cowbell.png";
+import darbuka from "./images/Percu/darbuka.png";
+import djembe from "./images/Percu/djembe.png";
+import djembe2 from "./images/Percu/djembe2.png";
+import guira from "./images/Percu/guira.png";
+import guira2 from "./images/Percu/guira2.png";
+import guiro from "./images/Percu/guiro.png";
+import hoopdrum from "./images/Percu/hoopdrum.png";
+import maraca1 from "./images/Percu/maraca1.png";
+import shaker from "./images/Percu/shaker.png";
+import shekere from "./images/Percu/shekere.png";
+import tambourine from "./images/Percu/tambourine.png";
+import tambourine2 from "./images/Percu/tambourine2.png";
+import timbal1 from "./images/Percu/timbal1.png";
+import timbal2 from "./images/Percu/timbal2.png";
+import triplebell from "./images/Percu/triplebell.png";
+import moni from "./images/moni.png";
+import monito from "./images/monito.png";
+import monitoL from "./images/monitoL.png";
+import peitsch from "./images/peitsch.png";
+import side2 from "./images/side2.png";
+import side2L from "./images/side2L.png";
+import sonata from "./images/sonata.png";
+import sonataL from "./images/sonataL.png";
+import stanitchL from "./images/stanitchL.png";
+import stanitch from "./images/stanitch.png";
+import stsL from "./images/stsL.png";
+import sts from "./images/sts.png";
+
+const images = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <img src={sts} alt="foto" />
+      <img src={stsL} alt="foto" />
+      <img src={stanitch} alt="foto" />
+      <img src={stanitchL} alt="foto" />
+      <img src={sonataL} alt="foto" />
+      <img src={sonata} alt="foto" />
+      <img src={side2} alt="foto" />
+      <img src={side2L} alt="foto" />
+      <img src={peitsch} alt="foto" />
+      <img src={monitoL} alt="foto" />
+      <img src={monito} alt="foto" />
+      <img src={moni} alt="foto" />
+      <img src={triplebell} alt="foto" />
+      <img src={timbal2} alt="foto" />
+      <img src={timbal1} alt="foto" />
+      <img src={tambourine2} alt="foto" />
+      <img src={tambourine} alt="foto" />
+      <img src={shekere} alt="foto" />
+      <img src={shaker} alt="foto" />
+      <img src={maraca1} alt="foto" />
+      <img src={hoopdrum} alt="foto" />
+      <img src={guiro} alt="foto" />
+      <img src={guira2} alt="foto" />
+      <img src={guira} alt="foto" />
+      <img src={djembe2} alt="foto" />
+      <img src={djembe} alt="foto" />
+      <img src={darbuka} alt="foto" />
+      <img src={cowbell} alt="foto" />
+      <img src={chime} alt="foto" />
+      <img src={trompeta} alt="foto" />
+      <img src={trombom} alt="foto" />
+      <img src={saxofon} alt="foto" />
+      <img src={cajon} alt="foto" />
+      <img src={cajon1} alt="foto" />
+      <img src={bongo3} alt="foto" />
+      <img src={block} alt="foto" />
+      <img src={conga3} alt="foto" />
+      <img src={conga2} alt="foto" />
+      <img src={conga1} alt="foto" />
+      <img src={bongo1} alt="foto" />
+      <img src={accesorios} alt="foto" />
+      <img src={congadoble2} alt="foto" />
+      <img src={congadoble} alt="foto" />
+      <img src={antena1} alt="foto" />
+      <img src={antena} alt="foto" />
+      <img src={helicoidal} alt="foto" />
+      <img src={antena1L} alt="foto" />
+      <img src={antenaL} alt="foto" />
+      <img src={helicoidalL} alt="foto" />
+      <img src={mano} alt="foto" />
+      <img src={manoshure} alt="foto" />
+      <img src={sm58} alt="foto" />
+      <img src={stand} alt="foto" />
+      <img src={stand1} alt="foto" />
+      <img src={stand2} alt="foto" />
+      <img src={directbox3} alt="foto" />
+      <img src={directbox2} alt="foto" />
+      <img src={directbox1} alt="foto" />
+      <img src={snake12cha} alt="foto" />
+      <img src={soundtools} alt="foto" />
+      <img src={snake8cha} alt="foto" />
+      <img src={x32} alt="foto" />
+      <img src={sq6} alt="foto" />
+      <img src={s6l} alt="foto" />
+      <img src={corriente} alt="foto" />
+      <img src={mac} alt="foto" />
+      <img src={gibson} alt="foto" />
+      <img src={guitarraelectrica} alt="foto" />
+      <img src={guitarraelectricaprs} alt="foto" />
+      <img src={ibanez} alt="foto" />
+      <img src={lespaul} alt="foto" />
+      <img src={vanhalen} alt="foto" />
+      <img src={bateria1tom} alt="foto" />
+      <img src={bateria2bombo} alt="foto" />
+      <img src={bateria2tom} alt="foto" />
+      <img src={bateria3tom} alt="foto" />
+      <img src={bateria4tom} alt="foto" />
+      <img src={bateria5tom} alt="foto" />
+      <img src={bajogl} alt="foto" />
+      <img src={fender} alt="foto" />
+      <img src={fenderviolet} alt="foto" />
+      <img src={gl} alt="foto" />
+      <img src={ibanezbass} alt="foto" />
+      <img src={ibanezbasses} alt="foto" />
+      <img src={korg} alt="foto" />
+      <img src={montage} alt="foto" />
+      <img src={motif} alt="foto" />
+      <img src={nordstage} alt="foto" />
+      <img src={roland2} alt="foto" />
+      <img src={roland} alt="foto" />
+      <img src={monitordb} alt="foto" />
+      <img src={monitordbL} alt="foto" />
+      <img src={monitor} alt="foto" />
+      <img src={monitorL} alt="foto" />
+      <img src={sidefill4} alt="foto" />
+      <img src={sidefill4L} alt="foto" />
+      <img src={sidefillarray} alt="foto" />
+      <img src={sidefillarrayL} alt="foto" />
+      <img src={sidefillpuntual} alt="foto" />
+      <img src={sidefillpuntualL} alt="foto" />
+      <img src={sidefillt} alt="foto" />
+      <img src={sidefilltL} alt="foto" />
+      <img src={sidetw} alt="foto" />
+      <img src={sidetwL} alt="foto" />
+      <img src={substanitch} alt="foto" />
+      <img src={substanitchL} alt="foto" />
+      <img src={c3500} alt="foto" />
+      <img src={cl5} alt="foto" />
+      <img src={sd10} alt="foto" />
+      <img src={wings} alt="foto" />
+      <img src={lv1} alt="foto" />
+    </>
   );
-}
+};
 
-export default App;
+export default images;
