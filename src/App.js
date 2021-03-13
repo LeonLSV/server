@@ -128,7 +128,7 @@ import flauta3 from "./images/vientos/flauta3.png";
 import trutuka from "./images/vientos/trutuka.png";
 import armonica from "./images/vientos/armonica.png";
 import PIFILKA from "./images/vientos/PIFILKA.png";
-import zurdo from "./images/Percu/zurdo.jpg";
+import zurdo from "./images/Percu/zurdo.png";
 import TAMBORADOMINICANA from "./images/Percu/TAMBORADOMINICANA.png";
 import tambores from "./images/Percu/tambores.png";
 import PLATILLO from "./images/Percu/PLATILLO.png";
@@ -154,7 +154,9 @@ import bandoneon1 from "./images/acordeon/bandoneon1.png";
 import bandoneon from "./images/acordeon/bandoneon.png";
 import acordeon1 from "./images/acordeon/acordeon1.png";
 import palinear from "./images/palinear.png";
+import palinearL from "./images/palinearL.png";
 import sublinear from "./images/sublinear.png";
+import sublinearL from "./images/sublinearL.png";
 import silla from "./images/silla.png";
 import accesorios1 from "./images/accesorios.png";
 import solidrums from "./images/Percu/solidrums.png";
@@ -175,50 +177,23 @@ const images = () => {
       <img src={tamborescumaco} alt="foto" />
       <img src={accesorios1} alt="foto" />
       <img src={silla} alt="foto" />
-      <img src={palinear} alt="foto" />
-      <img src={sublinear} alt="foto" />
       <img src={ACORDEON} alt="foto" />
       <img src={bandoneon1} alt="foto" />
       <img src={bandoneon} alt="foto" />
       <img src={acordeon1} alt="foto" />
       <img src={ARPA} alt="foto" />
-      <img src={cuatro} alt="foto" />
-      <img src={guitarra} alt="foto" />
-      <img src={guitarra1} alt="foto" />
-      <img src={RONROCO} alt="foto" />
+
       <img src={VIOLIN} alt="foto" />
       <img src={violin1} alt="foto" />
       <img src={violin2} alt="foto" />
-      <img src={charango} alt="foto" />
       <img src={OCTAPAD} alt="foto" />
       <img src={palodelluvia} alt="foto" />
       <img src={pezuñas} alt="foto" />
       <img src={bateriaelectronica} alt="foto" />
-      <img src={kultrum} alt="foto" />
-      <img src={bomboleguero} alt="foto" />
-      <img src={REDOBLANTE} alt="foto" />
-      <img src={hihat1} alt="foto" />
-      <img src={PLATILLO} alt="foto" />
-      <img src={tambores} alt="foto" />
-      <img src={TAMBORADOMINICANA} alt="foto" />
-      <img src={zurdo} alt="foto" />
-      <img src={PIFILKA} alt="foto" />
-      <img src={armonica} alt="foto" />
-      <img src={trutuka} alt="foto" />
-      <img src={flauta3} alt="foto" />
-      <img src={ÑOLKIN} alt="foto" />
-      <img src={ZAMPOÑA} alt="foto" />
-      <img src={SIKU2} alt="foto" />
-      <img src={SIKU} alt="foto" />
-      <img src={saxotenor} alt="foto" />
-      <img src={saxosoprano} alt="foto" />
-      <img src={saxoalto} alt="foto" />
-      <img src={quena1} alt="foto" />
-      <img src={QUENA} alt="foto" />
-      <img src={Charcheta} alt="foto" />
-      <img src={flauta} alt="foto" />
-      <img src={clarinete} alt="foto" />
-      <img src={tuba} alt="foto" />
+      <img src={palinear} alt="foto" />
+      <img src={palinearL} alt="foto" />
+      <img src={sublinear} alt="foto" />
+      <img src={sublinearL} alt="foto" />
       <img src={sts} alt="foto" />
       <img src={stsL} alt="foto" />
       <img src={stanitch} alt="foto" />
@@ -251,6 +226,23 @@ const images = () => {
       <img src={trompeta} alt="foto" />
       <img src={trombom} alt="foto" />
       <img src={saxofon} alt="foto" />
+      <img src={PIFILKA} alt="foto" />
+      <img src={armonica} alt="foto" />
+      <img src={trutuka} alt="foto" />
+      <img src={ÑOLKIN} alt="foto" />
+      <img src={ZAMPOÑA} alt="foto" />
+      <img src={SIKU2} alt="foto" />
+      <img src={SIKU} alt="foto" />
+      <img src={saxotenor} alt="foto" />
+      <img src={saxosoprano} alt="foto" />
+      <img src={saxoalto} alt="foto" />
+      <img src={quena1} alt="foto" />
+      <img src={QUENA} alt="foto" />
+      <img src={Charcheta} alt="foto" />
+      <img src={flauta3} alt="foto" />
+      <img src={flauta} alt="foto" />
+      <img src={clarinete} alt="foto" />
+      <img src={tuba} alt="foto" />
       <img src={cajon} alt="foto" />
       <img src={cajon1} alt="foto" />
       <img src={bongo3} alt="foto" />
@@ -259,6 +251,14 @@ const images = () => {
       <img src={conga2} alt="foto" />
       <img src={conga1} alt="foto" />
       <img src={bongo1} alt="foto" />
+      <img src={kultrum} alt="foto" />
+      <img src={bomboleguero} alt="foto" />
+      <img src={REDOBLANTE} alt="foto" />
+      <img src={hihat1} alt="foto" />
+      <img src={PLATILLO} alt="foto" />
+      <img src={tambores} alt="foto" />
+      <img src={TAMBORADOMINICANA} alt="foto" />
+      <img src={zurdo} alt="foto" />
       <img src={accesorios} alt="foto" />
       <img src={congadoble2} alt="foto" />
       <img src={congadoble} alt="foto" />
@@ -291,6 +291,11 @@ const images = () => {
       <img src={ibanez} alt="foto" />
       <img src={lespaul} alt="foto" />
       <img src={vanhalen} alt="foto" />
+      <img src={cuatro} alt="foto" />
+      <img src={guitarra} alt="foto" />
+      <img src={guitarra1} alt="foto" />
+      <img src={RONROCO} alt="foto" />
+      <img src={charango} alt="foto" />
       <img src={bateria1tom} alt="foto" />
       <img src={bateria2bombo} alt="foto" />
       <img src={bateria2tom} alt="foto" />
