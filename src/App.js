@@ -163,7 +163,7 @@ import solidrums3 from "./images/Percu/solidrums3.png";
 import TamboradegaitaZuliana from "./images/Percu/TamboradegaitaZuliana.png";
 import tamboramexicana from "./images/Percu/tambora-mexicana.png";
 import tamborescumaco from "./images/Percu/tamborescumaco.png";
-
+//agreg
 const images = () => {
   return (
     <>
