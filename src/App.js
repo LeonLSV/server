@@ -111,10 +111,114 @@ import stanitchL from "./images/stanitchL.png";
 import stanitch from "./images/stanitch.png";
 import stsL from "./images/stsL.png";
 import sts from "./images/sts.png";
+import tuba from "./images/vientos/tuba.png";
+import clarinete from "./images/vientos/clarinete.png";
+import flauta from "./images/vientos/flauta.png";
+import Charcheta from "./images/vientos/Charcheta-saxor-armonia.png";
+import QUENA from "./images/vientos/QUENA.png";
+import quena1 from "./images/vientos/quena1.png";
+import saxoalto from "./images/vientos/saxoalto.png";
+import saxosoprano from "./images/vientos/saxosoprano.png";
+import saxotenor from "./images/vientos/saxotenor.png";
+import SIKU from "./images/vientos/SIKU.png";
+import SIKU2 from "./images/vientos/SIKU2.png";
+import ZAMPOÑA from "./images/vientos/ZAMPOÑA.png";
+import ÑOLKIN from "./images/vientos/ÑOLKIN.png";
+import flauta3 from "./images/vientos/flauta3.png";
+import trutuka from "./images/vientos/trutuka.png";
+import armonica from "./images/vientos/armonica.png";
+import PIFILKA from "./images/vientos/PIFILKA.png";
+import zurdo from "./images/Percu/zurdo.jpg";
+import TAMBORADOMINICANA from "./images/Percu/TAMBORADOMINICANA.png";
+import tambores from "./images/Percu/tambores.png";
+import PLATILLO from "./images/Percu/PLATILLO.png";
+import hihat1 from "./images/Percu/hihat1.png";
+import REDOBLANTE from "./images/Percu/REDOBLANTE.png";
+import bomboleguero from "./images/Percu/bomboleguero.png";
+import kultrum from "./images/Percu/kultrum.png";
+import bateriaelectronica from "./images/Percu/bateriaelectronica.png";
+import pezuñas from "./images/Percu/pezuñas.jpg";
+import palodelluvia from "./images/Percu/palodelluvia.png";
+import OCTAPAD from "./images/Percu/OCTAPAD.jpg";
+import charango from "./images/cuerdas/charango.png";
+import violin2 from "./images/cuerdas/violin2.png";
+import violin1 from "./images/cuerdas/violin1.png";
+import VIOLIN from "./images/cuerdas/VIOLIN.png";
+import RONROCO from "./images/cuerdas/RONROCO.png";
+import guitarra1 from "./images/cuerdas/guitarra1.png";
+import guitarra from "./images/cuerdas/guitarra.png";
+import cuatro from "./images/cuerdas/cuatro.png";
+import ARPA from "./images/cuerdas/ARPA.png";
+import ACORDEON from "./images/acordeon/ACORDEON.png";
+import bandoneon1 from "./images/acordeon/bandoneon1.png";
+import bandoneon from "./images/acordeon/bandoneon.png";
+import acordeon1 from "./images/acordeon/acordeon1.png";
+import palinear from "./images/palinear.png";
+import sublinear from "./images/sublinear.png";
+import silla from "./images/silla.png";
+import accesorios1 from "./images/accesorios.png";
+import solidrums from "./images/Percu/solidrums.png";
+import solidrums2 from "./images/Percu/solidrums2.png";
+import solidrums3 from "./images/Percu/solidrums3.png";
+import TamboradegaitaZuliana from "./images/Percu/TamboradegaitaZuliana.png";
+import tamboramexicana from "./images/Percu/tambora-mexicana.png";
+import tamborescumaco from "./images/Percu/tamborescumaco.png";
 
 const images = () => {
   return (
     <>
+      <img src={solidrums} alt="foto" />
+      <img src={solidrums2} alt="foto" />
+      <img src={solidrums3} alt="foto" />
+      <img src={TamboradegaitaZuliana} alt="foto" />
+      <img src={tamboramexicana} alt="foto" />
+      <img src={tamborescumaco} alt="foto" />
+      <img src={accesorios1} alt="foto" />
+      <img src={silla} alt="foto" />
+      <img src={palinear} alt="foto" />
+      <img src={sublinear} alt="foto" />
+      <img src={ACORDEON} alt="foto" />
+      <img src={bandoneon1} alt="foto" />
+      <img src={bandoneon} alt="foto" />
+      <img src={acordeon1} alt="foto" />
+      <img src={ARPA} alt="foto" />
+      <img src={cuatro} alt="foto" />
+      <img src={guitarra} alt="foto" />
+      <img src={guitarra1} alt="foto" />
+      <img src={RONROCO} alt="foto" />
+      <img src={VIOLIN} alt="foto" />
+      <img src={violin1} alt="foto" />
+      <img src={violin2} alt="foto" />
+      <img src={charango} alt="foto" />
+      <img src={OCTAPAD} alt="foto" />
+      <img src={palodelluvia} alt="foto" />
+      <img src={pezuñas} alt="foto" />
+      <img src={bateriaelectronica} alt="foto" />
+      <img src={kultrum} alt="foto" />
+      <img src={bomboleguero} alt="foto" />
+      <img src={REDOBLANTE} alt="foto" />
+      <img src={hihat1} alt="foto" />
+      <img src={PLATILLO} alt="foto" />
+      <img src={tambores} alt="foto" />
+      <img src={TAMBORADOMINICANA} alt="foto" />
+      <img src={zurdo} alt="foto" />
+      <img src={PIFILKA} alt="foto" />
+      <img src={armonica} alt="foto" />
+      <img src={trutuka} alt="foto" />
+      <img src={flauta3} alt="foto" />
+      <img src={ÑOLKIN} alt="foto" />
+      <img src={ZAMPOÑA} alt="foto" />
+      <img src={SIKU2} alt="foto" />
+      <img src={SIKU} alt="foto" />
+      <img src={saxotenor} alt="foto" />
+      <img src={saxosoprano} alt="foto" />
+      <img src={saxoalto} alt="foto" />
+      <img src={quena1} alt="foto" />
+      <img src={QUENA} alt="foto" />
+      <img src={Charcheta} alt="foto" />
+      <img src={flauta} alt="foto" />
+      <img src={clarinete} alt="foto" />
+      <img src={tuba} alt="foto" />
       <img src={sts} alt="foto" />
       <img src={stsL} alt="foto" />
       <img src={stanitch} alt="foto" />
