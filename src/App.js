@@ -165,10 +165,50 @@ import solidrums3 from "./images/Percu/solidrums3.png";
 import TamboradegaitaZuliana from "./images/Percu/TamboradegaitaZuliana.png";
 import tamboramexicana from "./images/Percu/tambora-mexicana.png";
 import tamborescumaco from "./images/Percu/tamborescumaco.png";
-//agreg
+import amplificador from "./images/directbox/amplificador.png";
+import cajadirecta from "./images/directbox/cajadirecta.png";
+import cajadirecta1 from "./images/directbox/cajadirecta1.png";
+import spliter from "./images/directbox/spliter.png";
+import fender1 from "./images/ampgtr/fender.png";
+import marshall from "./images/ampgtr/marshall.png";
+import vox from "./images/ampgtr/vox.png";
+import orangepantalla from "./images/ampgtr/orangepantalla.png";
+import orangecabezal from "./images/ampgtr/orangecabezal.png";
+import gabinetemarshall from "./images/ampgtr/gabinetemarshall.png";
+import cabezal from "./images/ampgtr/cabezal.png";
+import ampegcabezal from "./images/ampbajo/ampegcabezal.png";
+import aguilarcabezal from "./images/ampbajo/aguilarcabezal.png";
+import ampegpantalla2 from "./images/ampbajo/ampegpantalla2.png";
+import amphartec from "./images/ampbajo/amphartec.png";
+import amphartec2 from "./images/ampbajo/amphartec2.png";
+import ampmark from "./images/ampbajo/ampmark.png";
+import ampegamp from "./images/ampbajo/ampegamp.png";
+import ampegcmbo from "./images/ampbajo/ampegcmbo.png";
+import ampegpantalla from "./images/ampbajo/ampegpantalla.png";
+//asdkasd
 const images = () => {
   return (
     <>
+      <img src={ampegpantalla} alt="foto" />
+      <img src={ampegcabezal} alt="foto" />
+      <img src={ampegcmbo} alt="foto" />
+      <img src={aguilarcabezal} alt="foto" />
+      <img src={ampegamp} alt="foto" />
+      <img src={ampegpantalla2} alt="foto" />
+      <img src={amphartec} alt="foto" />
+      <img src={amphartec2} alt="foto" />
+      <img src={ampmark} alt="foto" />
+      <img src={cabezal} alt="foto" />
+      <img src={gabinetemarshall} alt="foto" />
+      <img src={orangecabezal} alt="foto" />
+      <img src={orangepantalla} alt="foto" />
+      <img src={vox} alt="foto" />
+      <img src={marshall} alt="foto" />
+      <img src={fender1} alt="foto" />
+      <img src={amplificador} alt="foto" />
+      <img src={cajadirecta} alt="foto" />
+      <img src={cajadirecta1} alt="foto" />
+      <img src={spliter} alt="foto" />
       <img src={solidrums} alt="foto" />
       <img src={solidrums2} alt="foto" />
       <img src={solidrums3} alt="foto" />
