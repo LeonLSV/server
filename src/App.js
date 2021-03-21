@@ -200,7 +200,7 @@ import corriente1 from "./images/corriente.png";
 import BOMBOFOLCLORICO from "./images/Percu/BOMBOFOLCLORICO.png";
 import BOMBOITALAQUE from "./images/Percu/BOMBOITALAQUE.png";
 import ZAMPOÑACROMATICA from "./images/vientos/ZAMPOÑACROMATICA.png";
-import TARKA from "./images/vientos/tarka.png";
+// import TARKA from "./images/vientos/tarka.png";
 import MOSEÑO from "./images/vientos/MOSEÑO.png";
 import pedal1 from "./images/ampbajo/pedal1.png";
 import pedal2 from "./images/ampbajo/pedal2.png";
@@ -218,7 +218,7 @@ const images = () => {
       <img src={pedal8} alt="foto" />
       <img src={pedal11} alt="foto" />
       <img src={MOSEÑO} alt="foto" />
-      <img src={TARKA} alt="foto" />
+      {/* <img src={TARKA} alt="foto" /> */}
       <img src={ZAMPOÑACROMATICA} alt="foto" />
       <img src={BOMBOFOLCLORICO} alt="foto" />
       <img src={BOMBOITALAQUE} alt="foto" />
