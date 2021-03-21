@@ -185,10 +185,54 @@ import ampmark from "./images/ampbajo/ampmark.png";
 import ampegamp from "./images/ampbajo/ampegamp.png";
 import ampegcmbo from "./images/ampbajo/ampegcmbo.png";
 import ampegpantalla from "./images/ampbajo/ampegpantalla.png";
-//asdkasd
+import GaetanoBC from "./images/ampbajo/GaetanoBC-150-bajo.png";
+import GaetanoBT from "./images/ampbajo/Gaetano-bajo-BT-450.png";
+import Apollo from "./images/ampgtr/Gaetano-Apollo-18-gtr.png";
+import GTO from "./images/ampgtr/Gaetano-GTO-series-gtr.png";
+import mandolinmandolina from "./images/cuerdas/mandolin-mandolina.png";
+import Vihuela from "./images/cuerdas/Vihuela.png";
+import guitarron from "./images/cuerdas/guitarron.png";
+import Guitarra2 from "./images/cuerdas/Guitarra2.png";
+import MANDOLINA from "./images/cuerdas/MANDOLINA.png";
+import mr18 from "./images/mr18.png";
+import Soundgraft from "./images/Soundgraft-ui24.png";
+import corriente1 from "./images/corriente.png";
+import BOMBOFOLCLORICO from "./images/Percu/BOMBOFOLCLORICO.png";
+import BOMBOITALAQUE from "./images/Percu/BOMBOITALAQUE.png";
+import ZAMPOÑACROMATICA from "./images/vientos/ZAMPOÑACROMATICA.png";
+import TARKA from "./images/vientos/tarka.png";
+import MOSEÑO from "./images/vientos/MOSEÑO.png";
+import pedal1 from "./images/ampbajo/pedal1.png";
+import pedal2 from "./images/ampbajo/pedal2.png";
+import pedal8 from "./images/ampbajo/pedal8.png";
+import pedal11 from "./images/ampbajo/pedal11.png";
+import pedal12 from "./images/ampbajo/pedal12.png";
+
 const images = () => {
   return (
     <>
+      <img src={pedal1} alt="foto" />
+      <img src={pedal2} alt="foto" />
+      <img src={pedal12} alt="foto" />
+      <img src={pedal8} alt="foto" />
+      <img src={pedal11} alt="foto" />
+      <img src={MOSEÑO} alt="foto" />
+      <img src={TARKA} alt="foto" />
+      <img src={ZAMPOÑACROMATICA} alt="foto" />
+      <img src={BOMBOFOLCLORICO} alt="foto" />
+      <img src={BOMBOITALAQUE} alt="foto" />
+      <img src={corriente1} alt="foto" />
+      <img src={Soundgraft} alt="foto" />
+      <img src={mr18} alt="foto" />
+      <img src={Guitarra2} alt="foto" />
+      <img src={guitarron} alt="foto" />
+      <img src={Vihuela} alt="foto" />
+      <img src={MANDOLINA} alt="foto" />
+      <img src={mandolinmandolina} alt="foto" />
+      <img src={Apollo} alt="foto" />
+      <img src={GTO} alt="foto" />
+      <img src={GaetanoBT} alt="foto" />
+      <img src={GaetanoBC} alt="foto" />
       <img src={ampegpantalla} alt="foto" />
       <img src={ampegcabezal} alt="foto" />
       <img src={ampegcmbo} alt="foto" />
