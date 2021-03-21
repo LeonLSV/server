@@ -208,6 +208,7 @@ import pedal8 from "./images/ampbajo/pedal8.png";
 import pedal11 from "./images/ampbajo/pedal11.png";
 import pedal12 from "./images/ampbajo/pedal12.png";
 
+//
 const images = () => {
   return (
     <>
