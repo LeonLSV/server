@@ -200,7 +200,7 @@ import corriente1 from "./images/corriente.png";
 import BOMBOFOLCLORICO from "./images/Percu/BOMBOFOLCLORICO.png";
 import BOMBOITALAQUE from "./images/Percu/BOMBOITALAQUE.png";
 import ZAMPOÑACROMATICA from "./images/vientos/ZAMPOÑACROMATICA.png";
-import tarka from "./images/vientos/tarka.png";
+import tarka from "./images/tarka.png";
 import MOSEÑO from "./images/vientos/MOSEÑO.png";
 import pedal1 from "./images/ampbajo/pedal1.png";
 import pedal2 from "./images/ampbajo/pedal2.png";
