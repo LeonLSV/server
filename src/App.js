@@ -200,25 +200,45 @@ import corriente1 from "./images/corriente.png";
 import BOMBOFOLCLORICO from "./images/Percu/BOMBOFOLCLORICO.png";
 import BOMBOITALAQUE from "./images/Percu/BOMBOITALAQUE.png";
 import ZAMPOÑACROMATICA from "./images/vientos/ZAMPOÑACROMATICA.png";
-// import TARKA from "./images/vientos/tarka.png";
+import tarka from "./images/vientos/tarka.png";
 import MOSEÑO from "./images/vientos/MOSEÑO.png";
 import pedal1 from "./images/ampbajo/pedal1.png";
 import pedal2 from "./images/ampbajo/pedal2.png";
 import pedal8 from "./images/ampbajo/pedal8.png";
 import pedal11 from "./images/ampbajo/pedal11.png";
 import pedal12 from "./images/ampbajo/pedal12.png";
+import flecha from "./images/flecha.png";
+import flecha1 from "./images/flecha1.png";
+import flecha2 from "./images/flecha2.png";
+import flecha3 from "./images/flecha3.png";
+import flecha4 from "./images/flecha4.png";
+import linea from "./images/linea.png";
+import linea1 from "./images/linea1.png";
+import linea2 from "./images/linea2.png";
+import linea3 from "./images/linea3.png";
+import linea4 from "./images/linea4.png";
 
 //
 const images = () => {
   return (
     <>
+      <img src={linea1} alt="foto" />
+      <img src={linea2} alt="foto" />
+      <img src={linea3} alt="foto" />
+      <img src={linea4} alt="foto" />
+      <img src={linea} alt="foto" />
+      <img src={flecha1} alt="foto" />
+      <img src={flecha2} alt="foto" />
+      <img src={flecha3} alt="foto" />
+      <img src={flecha4} alt="foto" />
+      <img src={flecha} alt="foto" />
       <img src={pedal1} alt="foto" />
       <img src={pedal2} alt="foto" />
       <img src={pedal12} alt="foto" />
       <img src={pedal8} alt="foto" />
       <img src={pedal11} alt="foto" />
       <img src={MOSEÑO} alt="foto" />
-      {/* <img src={TARKA} alt="foto" /> */}
+      <img src={tarka} alt="foto" />
       <img src={ZAMPOÑACROMATICA} alt="foto" />
       <img src={BOMBOFOLCLORICO} alt="foto" />
       <img src={BOMBOITALAQUE} alt="foto" />
