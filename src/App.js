@@ -217,11 +217,59 @@ import linea1 from "./images/linea1.png";
 import linea2 from "./images/linea2.png";
 import linea3 from "./images/linea3.png";
 import linea4 from "./images/linea4.png";
+import linea5 from "./images/linea5.png";
+import tarima from "./images/tarima.png";
+import tarima1 from "./images/tarima1.png";
+import alfombra from "./images/alfombra.png";
+import alfombra2 from "./images/alfombra2.png";
+import multipin from "./images/multipin.png";
+import pasacable from "./images/pasacable.png";
+import mikra8 from "./images/sts/mikra8.png";
+import mikra8L from "./images/sts/mikra8L.png";
+import monitorsts from "./images/sts/monitor.png";
+import monitorstsL from "./images/sts/monitorL.png";
+import stsmoni from "./images/sts/sts.png";
+import sts1 from "./images/sts/sts1.png";
+import sts1L from "./images/sts/sts1L.png";
+import substs from "./images/sts/sub.png";
+import substsL from "./images/sts/subL.png";
+import v7 from "./images/sts/v7.png";
+import v7L from "./images/sts/v7L.png";
+import v10 from "./images/sts/v10.png";
+import v10L from "./images/sts/v10L.png";
+import v101 from "./images/sts/v101.png";
+import v101L from "./images/sts/v101L.png";
+import v102 from "./images/sts/v102.png";
+import v102L from "./images/sts/v102L.png";
 
 //
 const images = () => {
   return (
     <>
+      <img src={v102} alt="foto" />
+      <img src={v102L} alt="foto" />
+      <img src={v101} alt="foto" />
+      <img src={v101L} alt="foto" />
+      <img src={v10} alt="foto" />
+      <img src={v10L} alt="foto" />
+      <img src={v7} alt="foto" />
+      <img src={v7L} alt="foto" />
+      <img src={substs} alt="foto" />
+      <img src={substsL} alt="foto" />
+      <img src={sts1} alt="foto" />
+      <img src={sts1L} alt="foto" />
+      <img src={stsmoni} alt="foto" />
+      <img src={monitorsts} alt="foto" />
+      <img src={monitorstsL} alt="foto" />
+      <img src={mikra8L} alt="foto" />
+      <img src={mikra8} alt="foto" />
+      <img src={pasacable} alt="foto" />
+      <img src={alfombra} alt="foto" />
+      <img src={alfombra2} alt="foto" />
+      <img src={multipin} alt="foto" />
+      <img src={tarima1} alt="foto" />
+      <img src={tarima} alt="foto" />
+      <img src={linea5} alt="foto" />
       <img src={linea1} alt="foto" />
       <img src={linea2} alt="foto" />
       <img src={linea3} alt="foto" />
