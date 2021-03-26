@@ -241,11 +241,308 @@ import v101 from "./images/sts/v101.png";
 import v101L from "./images/sts/v101L.png";
 import v102 from "./images/sts/v102.png";
 import v102L from "./images/sts/v102L.png";
+import condenser from "./images/nuevas/CONDENSER/condenser.png";
+import condenser1 from "./images/nuevas/CONDENSER/condenser1.png";
+import condenser2 from "./images/nuevas/CONDENSER/condenser2.png";
+import condenser3 from "./images/nuevas/CONDENSER/condenser3.png";
+import condenser4 from "./images/nuevas/CONDENSER/condenser4.png";
+import condenser5 from "./images/nuevas/CONDENSER/condenser5.png";
+import condenser6 from "./images/nuevas/CONDENSER/condenser6.png";
+import condenser7 from "./images/nuevas/CONDENSER/condenser7.png";
+import condenser8 from "./images/nuevas/CONDENSER/condenser8.png";
+import condenser9 from "./images/nuevas/CONDENSER/condenser9.png";
+import condenser10 from "./images/nuevas/CONDENSER/condenser10.png";
+import condenser11 from "./images/nuevas/CONDENSER/condenser11.png";
+import condenser12 from "./images/nuevas/CONDENSER/condenser12.png";
+import condenser13 from "./images/nuevas/CONDENSER/condenser13.png";
+import sm57 from "./images/nuevas/CONDENSER/sm57.png";
+import wingbehringer from "./images/nuevas/DIGITALES/wingbehringer.png";
+import x32producer from "./images/nuevas/DIGITALES/x32producer.png";
+import x32rack from "./images/nuevas/DIGITALES/x32rack.png";
+import dj1 from "./images/nuevas/DJ/dj1.png";
+import dj2 from "./images/nuevas/DJ/dj2.png";
+import dj3 from "./images/nuevas/DJ/dj3.png";
+import dj4 from "./images/nuevas/DJ/dj4.png";
+import dj5 from "./images/nuevas/DJ/dj5.png";
+import dj6 from "./images/nuevas/DJ/dj6.png";
+import dj7 from "./images/nuevas/DJ/dj7.png";
+import dj8 from "./images/nuevas/DJ/dj8.png";
+import dj9 from "./images/nuevas/DJ/dj9.png";
+import dj10 from "./images/nuevas/DJ/dj10.png";
+import dj11 from "./images/nuevas/DJ/dj11.png";
+import dj12 from "./images/nuevas/DJ/dj12.png";
+import dj13 from "./images/nuevas/DJ/dj13.png";
+import dj14 from "./images/nuevas/DJ/dj14.png";
+import dj15 from "./images/nuevas/DJ/dj15.png";
+import dj16 from "./images/nuevas/DJ/dj16.png";
+import dj17 from "./images/nuevas/DJ/dj17.png";
+import dj18 from "./images/nuevas/DJ/dj18.png";
+import GUITARRABAJOSEXTO from "./images/nuevas/MEXICANOS/GUITARRABAJOSEXTO.png";
+import GUITARRABAJOSEXTO1 from "./images/nuevas/MEXICANOS/GUITARRABAJOSEXTO1.png";
+import GUITARRABAJOSEXTO2 from "./images/nuevas/MEXICANOS/GUITARRABAJOSEXTO2.png";
+import GUITARRON from "./images/nuevas/MEXICANOS/GUITARRON.png";
+import VIHUELA from "./images/nuevas/MEXICANOS/VIHUELA.png";
+import AFUXÉCABAÇA from "./images/nuevas/BRASILEROS/AFUXÉ-CABAÇA.png";
+import AFUXÉCABAÇA1 from "./images/nuevas/BRASILEROS/AFUXÉ-CABAÇA1.png";
+import AFUXÉCABAÇA2 from "./images/nuevas/BRASILEROS/AFUXÉ-CABAÇA2.png";
+import AFUXÉCABAÇA3 from "./images/nuevas/BRASILEROS/AFUXÉ-CABAÇA3.png";
+import AFUXÉCABAÇA4 from "./images/nuevas/BRASILEROS/AFUXÉ-CABAÇA4.png";
+import AGOGÔDUPLO from "./images/nuevas/BRASILEROS/AGOGÔ-DUPLO.png";
+import AGOGÔDUPLO1 from "./images/nuevas/BRASILEROS/AGOGÔ-DUPLO1.png";
+import AGOGÔTRIPLO2 from "./images/nuevas/BRASILEROS/AGOGÔ-TRIPLO2.png";
+import AGOGÔTRIPLO3 from "./images/nuevas/BRASILEROS/AGOGÔ-TRIPLO3.png";
+import BANJO from "./images/nuevas/BRASILEROS/BANJO.png";
+import BERIMBAU from "./images/nuevas/BRASILEROS/BERIMBAU.png";
+import BERIMBAU1 from "./images/nuevas/BRASILEROS/BERIMBAU1.png";
+import BERIMBAU2 from "./images/nuevas/BRASILEROS/BERIMBAU2.png";
+import CAIXAREPIQUE1 from "./images/nuevas/BRASILEROS/CAIXA-REPIQUE1.png";
+import CAIXAREPIQUE2 from "./images/nuevas/BRASILEROS/CAIXA-REPIQUE2.png";
+import CAVAQUINHO from "./images/nuevas/BRASILEROS/CAVAQUINHO.png";
+import CAVAQUINHO2 from "./images/nuevas/BRASILEROS/CAVAQUINHO2.png";
+import CUICA from "./images/nuevas/BRASILEROS/CUICA.png";
+import CUICA1 from "./images/nuevas/BRASILEROS/CUICA1.png";
+import GANZÁ from "./images/nuevas/BRASILEROS/GANZÁ.png";
+import GANZÁ1 from "./images/nuevas/BRASILEROS/GANZÁ1.png";
+import GANZÁDEPLATINELA from "./images/nuevas/BRASILEROS/GANZÁDEPLATINELA.png";
+import GANZÁDEPLATINELA1 from "./images/nuevas/BRASILEROS/GANZÁDEPLATINELA1.png";
+import GANZAXÉ from "./images/nuevas/BRASILEROS/GANZAXÉ.png";
+import PANDEIRO from "./images/nuevas/BRASILEROS/PANDEIRO.png";
+import PANDEIRO1 from "./images/nuevas/BRASILEROS/PANDEIRO1.png";
+import REBOLO from "./images/nuevas/BRASILEROS/REBOLO.png";
+import RECORECO1 from "./images/nuevas/BRASILEROS/RECO.RECO1.png";
+import RECORECO from "./images/nuevas/BRASILEROS/RECORECO.png";
+import REPIQUEDEMÃO from "./images/nuevas/BRASILEROS/REPIQUEDEMÃO.png";
+import REPIQUEDEMÃO1 from "./images/nuevas/BRASILEROS/REPIQUEDEMÃO1.png";
+import REPIQUEDEMÃO2 from "./images/nuevas/BRASILEROS/REPIQUEDEMÃO2.png";
+import SURDO from "./images/nuevas/BRASILEROS/SURDO.png";
+import SURDO1 from "./images/nuevas/BRASILEROS/SURDO1.png";
+import TAMBORIM from "./images/nuevas/BRASILEROS/TAMBORIM.png";
+import TAMBORIM1 from "./images/nuevas/BRASILEROS/TAMBORIM1.png";
+import TAMBORIM2 from "./images/nuevas/BRASILEROS/TAMBORIM2.png";
+import TAMBORIM3 from "./images/nuevas/BRASILEROS/TAMBORIM3.png";
+import TANTAN from "./images/nuevas/BRASILEROS/TAN-TAN.png";
+import TANTAN1 from "./images/nuevas/BRASILEROS/TAN-TAN1.png";
+import TANTAN2 from "./images/nuevas/BRASILEROS/TAN-TAN2.png";
+import TIMBA from "./images/nuevas/BRASILEROS/TIMBA.png";
+import TIMBA1 from "./images/nuevas/BRASILEROS/TIMBA1.png";
+import TIMBA2 from "./images/nuevas/BRASILEROS/TIMBA2.png";
+import TIMBA3 from "./images/nuevas/BRASILEROS/TIMBA3.png";
+import TIMBAL from "./images/nuevas/BRASILEROS/TIMBAL.png";
+import TIMBAL1 from "./images/nuevas/BRASILEROS/TIMBAL1.png";
+import UKULELE from "./images/nuevas/BRASILEROS/UKULELE.png";
+import UKULELE1 from "./images/nuevas/BRASILEROS/UKULELE1.png";
+import VIOLACAIPIRA from "./images/nuevas/BRASILEROS/VIOLA-CAIPIRA.png";
+import VIOLACAIPIRA1 from "./images/nuevas/BRASILEROS/VIOLA-CAIPIRA1.png";
+import VIOLÃO from "./images/nuevas/BRASILEROS/VIOLÃO.png";
+import VIOLÃODEAÇO from "./images/nuevas/BRASILEROS/VIOLÃODEAÇO.png";
+import ACORDEONn from "./images/nuevas/SINFONICA/ACORDEON.png";
+import ACORDEON1 from "./images/nuevas/SINFONICA/ACORDEON1.png";
+import ACORDEON2 from "./images/nuevas/SINFONICA/ACORDEON2.png";
+import ACORDEON3 from "./images/nuevas/SINFONICA/ACORDEON3.png";
+import ACORDEON4 from "./images/nuevas/SINFONICA/ACORDEON4.png";
+import ARPAA from "./images/nuevas/SINFONICA/ARPA.png";
+import ARPA2 from "./images/nuevas/SINFONICA/ARPA2.png";
+import BARITONO from "./images/nuevas/SINFONICA/BARITONO.png";
+import BARITONO1 from "./images/nuevas/SINFONICA/BARITONO1.png";
+import CONCERTINA from "./images/nuevas/SINFONICA/CONCERTINA.png";
+import CONCERTINA1 from "./images/nuevas/SINFONICA/CONCERTINA1.png";
+import CONTRABAJO from "./images/nuevas/SINFONICA/CONTRABAJO.png";
+import CORNOFRANCES from "./images/nuevas/SINFONICA/CORNO-FRANCES.png";
+import CORNOFRANCES2 from "./images/nuevas/SINFONICA/CORNO-FRANCES2.png";
+import CORNOINGLES from "./images/nuevas/SINFONICA/CORNO-INGLES.png";
+import EUPHONIUM from "./images/nuevas/SINFONICA/EUPHONIUM.png";
+import EUPHONIUM1 from "./images/nuevas/SINFONICA/EUPHONIUM1.png";
+import FAGOT from "./images/nuevas/SINFONICA/FAGOT.png";
+import FLAUTATRAVERSA from "./images/nuevas/SINFONICA/FLAUTA-TRAVERSA.png";
+import FLAUTINPICCOLO from "./images/nuevas/SINFONICA/FLAUTIN-PICCOLO.png";
+import GAITA from "./images/nuevas/SINFONICA/GAITA.png";
+import GONG from "./images/nuevas/SINFONICA/GONG.png";
+import GONG1 from "./images/nuevas/SINFONICA/GONG1.png";
+import GONG2 from "./images/nuevas/SINFONICA/GONG2.png";
+import HARMÓNICA from "./images/nuevas/SINFONICA/HARMÓNICA.png";
+import MARIMBA from "./images/nuevas/SINFONICA/MARIMBA.png";
+import MARIMBA1 from "./images/nuevas/SINFONICA/MARIMBA1.png";
+import MARIMBA2 from "./images/nuevas/SINFONICA/MARIMBA2.png";
+import MARIMBA3 from "./images/nuevas/SINFONICA/MARIMBA3.png";
+import MELÓDICA from "./images/nuevas/SINFONICA/MELÓDICA.png";
+import MELÓDICA1 from "./images/nuevas/SINFONICA/MELÓDICA1.png";
+import OBOÉ from "./images/nuevas/SINFONICA/OBOÉ.png";
+import OCARINA from "./images/nuevas/SINFONICA/OCARINA.png";
+import OCARINA1 from "./images/nuevas/SINFONICA/OCARINA1.png";
+import PLATILLOS from "./images/nuevas/SINFONICA/PLATILLOS.png";
+import PLATILLOS1 from "./images/nuevas/SINFONICA/PLATILLOS1.png";
+import SAXOBARITONO from "./images/nuevas/SINFONICA/SAXO-BARITONO.png";
+import SAXOSOPRANO from "./images/nuevas/SINFONICA/SAXO-SOPRANO.png";
+import SITARA from "./images/nuevas/SINFONICA/SITARA.png";
+import TIMPANO from "./images/nuevas/SINFONICA/TIMPANO.png";
+import TIMPANO1 from "./images/nuevas/SINFONICA/TIMPANO1.png";
+import TIMPANO2 from "./images/nuevas/SINFONICA/TIMPANO2.png";
+import TIMPANO3 from "./images/nuevas/SINFONICA/TIMPANO3.png";
+import TRIANGULO from "./images/nuevas/SINFONICA/TRIANGULO.png";
+import TRIANGULO1 from "./images/nuevas/SINFONICA/TRIANGULO1.png";
+import VIOLONCHELLO from "./images/nuevas/SINFONICA/VIOLONCHELLO.png";
+import VIOLONCHELLO1 from "./images/nuevas/SINFONICA/VIOLONCHELLO1.png";
+import XILOFON from "./images/nuevas/SINFONICA/XILOFON.png";
+import XILOFON1 from "./images/nuevas/SINFONICA/XILOFON1.png";
+import PANTALLA from "./images/PANTALLA.png";
+import PANTALLA1 from "./images/PANTALLA1.png";
 
 //
 const images = () => {
   return (
     <>
+      <img src={PANTALLA1} alt="foto" />
+      <img src={PANTALLA} alt="foto" />
+
+      <img src={ACORDEONn} alt="foto" />
+      <img src={ACORDEON1} alt="foto" />
+      <img src={ACORDEON2} alt="foto" />
+      <img src={ACORDEON3} alt="foto" />
+      <img src={ACORDEON4} alt="foto" />
+      <img src={ARPAA} alt="foto" />
+      <img src={ARPA2} alt="foto" />
+      <img src={BARITONO} alt="foto" />
+      <img src={BARITONO1} alt="foto" />
+      <img src={CONCERTINA} alt="foto" />
+      <img src={CONCERTINA1} alt="foto" />
+      <img src={CONTRABAJO} alt="foto" />
+      <img src={CORNOFRANCES} alt="foto" />
+      <img src={CORNOFRANCES2} alt="foto" />
+      <img src={CORNOINGLES} alt="foto" />
+      <img src={EUPHONIUM} alt="foto" />
+      <img src={EUPHONIUM1} alt="foto" />
+      <img src={FAGOT} alt="foto" />
+      <img src={FLAUTATRAVERSA} alt="foto" />
+      <img src={FLAUTINPICCOLO} alt="foto" />
+      <img src={GAITA} alt="foto" />
+      <img src={GONG} alt="foto" />
+      <img src={GONG1} alt="foto" />
+      <img src={GONG2} alt="foto" />
+      <img src={HARMÓNICA} alt="foto" />
+      <img src={MARIMBA} alt="foto" />
+      <img src={MARIMBA1} alt="foto" />
+      <img src={MARIMBA2} alt="foto" />
+      <img src={MARIMBA3} alt="foto" />
+      <img src={MELÓDICA} alt="foto" />
+      <img src={MELÓDICA1} alt="foto" />
+      <img src={OBOÉ} alt="foto" />
+      <img src={OCARINA} alt="foto" />
+      <img src={OCARINA1} alt="foto" />
+      <img src={PLATILLOS} alt="foto" />
+      <img src={PLATILLOS1} alt="foto" />
+      <img src={SAXOBARITONO} alt="foto" />
+      <img src={SAXOSOPRANO} alt="foto" />
+      <img src={SITARA} alt="foto" />
+      <img src={TIMPANO} alt="foto" />
+      <img src={TIMPANO1} alt="foto" />
+      <img src={TIMPANO2} alt="foto" />
+      <img src={TIMPANO3} alt="foto" />
+      <img src={TRIANGULO} alt="foto" />
+      <img src={TRIANGULO1} alt="foto" />
+      <img src={VIOLONCHELLO} alt="foto" />
+      <img src={VIOLONCHELLO1} alt="foto" />
+      <img src={XILOFON} alt="foto" />
+      <img src={XILOFON1} alt="foto" />
+
+      <img src={TIMBAL1} alt="foto" />
+      <img src={UKULELE} alt="foto" />
+      <img src={UKULELE1} alt="foto" />
+      <img src={VIOLACAIPIRA} alt="foto" />
+      <img src={VIOLACAIPIRA1} alt="foto" />
+      <img src={VIOLÃO} alt="foto" />
+      <img src={VIOLÃODEAÇO} alt="foto" />
+      <img src={TIMBAL} alt="foto" />
+      <img src={TIMBA3} alt="foto" />
+      <img src={TIMBA2} alt="foto" />
+      <img src={TIMBA1} alt="foto" />
+      <img src={TIMBA} alt="foto" />
+      <img src={TANTAN2} alt="foto" />
+      <img src={TANTAN1} alt="foto" />
+      <img src={TANTAN} alt="foto" />
+      <img src={TAMBORIM3} alt="foto" />
+      <img src={TAMBORIM2} alt="foto" />
+      <img src={TAMBORIM1} alt="foto" />
+      <img src={TAMBORIM} alt="foto" />
+      <img src={SURDO1} alt="foto" />
+      <img src={SURDO} alt="foto" />
+      <img src={REPIQUEDEMÃO2} alt="foto" />
+      <img src={REPIQUEDEMÃO1} alt="foto" />
+      <img src={REPIQUEDEMÃO} alt="foto" />
+      <img src={RECORECO} alt="foto" />
+      <img src={RECORECO1} alt="foto" />
+      <img src={REBOLO} alt="foto" />
+      <img src={PANDEIRO1} alt="foto" />
+      <img src={PANDEIRO} alt="foto" />
+      <img src={GANZAXÉ} alt="foto" />
+      <img src={GANZÁDEPLATINELA1} alt="foto" />
+      <img src={GANZÁDEPLATINELA} alt="foto" />
+      <img src={GANZÁ1} alt="foto" />
+      <img src={GANZÁ} alt="foto" />
+      <img src={CUICA1} alt="foto" />
+      <img src={CUICA} alt="foto" />
+      <img src={CAVAQUINHO2} alt="foto" />
+      <img src={CAVAQUINHO} alt="foto" />
+      <img src={CAIXAREPIQUE2} alt="foto" />
+      <img src={CAIXAREPIQUE1} alt="foto" />
+      <img src={BERIMBAU2} alt="foto" />
+      <img src={BERIMBAU1} alt="foto" />
+      <img src={BERIMBAU} alt="foto" />
+      <img src={BANJO} alt="foto" />
+      <img src={AGOGÔTRIPLO3} alt="foto" />
+      <img src={AGOGÔTRIPLO2} alt="foto" />
+      <img src={AGOGÔDUPLO1} alt="foto" />
+      <img src={AGOGÔDUPLO} alt="foto" />
+      <img src={AFUXÉCABAÇA4} alt="foto" />
+      <img src={AFUXÉCABAÇA3} alt="foto" />
+      <img src={AFUXÉCABAÇA2} alt="foto" />
+      <img src={AFUXÉCABAÇA1} alt="foto" />
+      <img src={AFUXÉCABAÇA} alt="foto" />
+
+      <img src={GUITARRABAJOSEXTO} alt="foto" />
+      <img src={GUITARRABAJOSEXTO1} alt="foto" />
+      <img src={GUITARRABAJOSEXTO2} alt="foto" />
+      <img src={GUITARRON} alt="foto" />
+      <img src={VIHUELA} alt="foto" />
+
+      <img src={dj1} alt="foto" />
+      <img src={dj2} alt="foto" />
+      <img src={dj3} alt="foto" />
+      <img src={dj4} alt="foto" />
+      <img src={dj5} alt="foto" />
+      <img src={dj6} alt="foto" />
+      <img src={dj7} alt="foto" />
+      <img src={dj8} alt="foto" />
+      <img src={dj9} alt="foto" />
+      <img src={dj10} alt="foto" />
+      <img src={dj11} alt="foto" />
+      <img src={dj12} alt="foto" />
+      <img src={dj13} alt="foto" />
+      <img src={dj14} alt="foto" />
+      <img src={dj15} alt="foto" />
+      <img src={dj16} alt="foto" />
+      <img src={dj17} alt="foto" />
+      <img src={dj18} alt="foto" />
+
+      <img src={wingbehringer} alt="foto" />
+      <img src={x32producer} alt="foto" />
+      <img src={x32rack} alt="foto" />
+
+      <img src={sm57} alt="foto" />
+      <img src={condenser} alt="foto" />
+      <img src={condenser1} alt="foto" />
+      <img src={condenser2} alt="foto" />
+      <img src={condenser3} alt="foto" />
+      <img src={condenser4} alt="foto" />
+      <img src={condenser5} alt="foto" />
+      <img src={condenser6} alt="foto" />
+      <img src={condenser7} alt="foto" />
+      <img src={condenser8} alt="foto" />
+      <img src={condenser9} alt="foto" />
+      <img src={condenser10} alt="foto" />
+      <img src={condenser11} alt="foto" />
+      <img src={condenser12} alt="foto" />
+      <img src={condenser13} alt="foto" />
+
       <img src={v102} alt="foto" />
       <img src={v102L} alt="foto" />
       <img src={v101} alt="foto" />
