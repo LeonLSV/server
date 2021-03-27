@@ -386,11 +386,15 @@ import XILOFON from "./images/nuevas/SINFONICA/XILOFON.png";
 import XILOFON1 from "./images/nuevas/SINFONICA/XILOFON1.png";
 import PANTALLA from "./images/PANTALLA.png";
 import PANTALLA1 from "./images/PANTALLA1.png";
+import toms from "./images/toms.png";
+import toms1 from "./images/toms1.png";
 
 //
 const images = () => {
   return (
     <>
+      <img src={toms1} alt="foto" />
+      <img src={toms} alt="foto" />
       <img src={PANTALLA1} alt="foto" />
       <img src={PANTALLA} alt="foto" />
 
