@@ -504,15 +504,30 @@ import body5 from "./images/rfmic/iem3.png";
 import body6 from "./images/rfmic/psm1000.png";
 import turizo from "./images/turizo.png";
 import mau from "./images/mau.png";
+import zedgrande from "./images/zedgrande.png";
+import pasacable2 from "./images/pasacable2.png";
 import camilo from "./images/camilo.png";
+import lebon from "./images/lebon.png";
+import morelo from "./images/morelo.png";
+import jam from "./images/jam.png";
+import julian from "./images/julian.png";
+import zen from "./images/zen.png";
 
 //
 const images = () => {
   return (
     <>
+      <img src={zen} alt="foto" />
+      <img src={julian} alt="foto" />
+      <img src={jam} alt="foto" />
+      <img src={morelo} alt="foto" />
+      <img src={lebon} alt="foto" />
+
       <img src={camilo} alt="foto" />
       <img src={mau} alt="foto" />
       <img src={turizo} alt="foto" />
+      <img src={zedgrande} alt="foto" />
+      <img src={pasacable2} alt="foto" />
       <img src={body6} alt="foto" />
       <img src={body5} alt="foto" />
       <img src={body4} alt="foto" />
@@ -800,6 +815,7 @@ const images = () => {
       <img src={mikra8L} alt="foto" />
       <img src={mikra8} alt="foto" />
       <img src={pasacable} alt="foto" />
+
       <img src={alfombra} alt="foto" />
       <img src={alfombra2} alt="foto" />
       <img src={multipin} alt="foto" />
