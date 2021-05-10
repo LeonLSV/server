@@ -167,6 +167,7 @@ import tamboramexicana from "./images/Percu/tambora-mexicana.png";
 import tamborescumaco from "./images/Percu/tamborescumaco.png";
 import amplificador from "./images/directbox/amplificador.png";
 import cajadirecta from "./images/directbox/cajadirecta.png";
+import pasiva from "./images/directbox/pasiva.png";
 import cajadirecta1 from "./images/directbox/cajadirecta1.png";
 import spliter from "./images/directbox/spliter.png";
 import fender1 from "./images/ampgtr/fender.png";
@@ -388,11 +389,245 @@ import PANTALLA from "./images/PANTALLA.png";
 import PANTALLA1 from "./images/PANTALLA1.png";
 import toms from "./images/toms.png";
 import toms1 from "./images/toms1.png";
+import tarima2 from "./images/sobretarima2.png";
+import uno from "./images/numero/1.png";
+import dos from "./images/numero/2.png";
+import tres from "./images/numero/3.png";
+import cuatro1 from "./images/numero/4.png";
+import cinco from "./images/numero/5.png";
+import seis from "./images/numero/6.png";
+import siete from "./images/numero/7.png";
+import ocho from "./images/numero/8.png";
+import nueve from "./images/numero/9.png";
+import diez from "./images/numero/10.png";
+import once from "./images/numero/11.png";
+import doce from "./images/numero/12.png";
+import trece from "./images/numero/13.png";
+import catorce from "./images/numero/14.png";
+import quince from "./images/numero/15.png";
+import diezseis from "./images/numero/16.png";
+import diezsiete from "./images/numero/17.png";
+import diezocho from "./images/numero/18.png";
+import dieznueve from "./images/numero/19.png";
+import veinte from "./images/numero/20.png";
+import veinteuno from "./images/numero/21.png";
+import veintedos from "./images/numero/22.png";
+import veintetres from "./images/numero/23.png";
+import veintecuatro from "./images/numero/24.png";
+import veintecinco from "./images/numero/25.png";
+import veinteseis from "./images/numero/26.png";
+import veintesiete from "./images/numero/27.png";
+import veinteocho from "./images/numero/28.png";
+import veintenueve from "./images/numero/29.png";
+import treinta from "./images/numero/30.png";
+import treinta1 from "./images/numero/31.png";
+import treinta2 from "./images/numero/32.png";
+import treinta3 from "./images/numero/33.png";
+import treinta4 from "./images/numero/34.png";
+import treinta5 from "./images/numero/35.png";
+import treinta6 from "./images/numero/36.png";
+import treinta7 from "./images/numero/37.png";
+import treinta8 from "./images/numero/38.png";
+import treinta9 from "./images/numero/39.png";
+import cuarenta from "./images/numero/40.png";
+import cuarenta1 from "./images/numero/41.png";
+import cuarenta2 from "./images/numero/42.png";
+import cuarenta3 from "./images/numero/43.png";
+import cuarenta4 from "./images/numero/44.png";
+import cuarenta5 from "./images/numero/45.png";
+import cuarenta6 from "./images/numero/46.png";
+import cuarenta7 from "./images/numero/47.png";
+import cuarenta8 from "./images/numero/48.png";
+import cuarenta9 from "./images/numero/49.png";
+import cincuenta from "./images/numero/50.png";
+import cincuenta1 from "./images/numero/51.png";
+import cincuenta2 from "./images/numero/52.png";
+import cincuenta3 from "./images/numero/53.png";
+import cincuenta4 from "./images/numero/54.png";
+import cincuenta5 from "./images/numero/55.png";
+import cincuenta6 from "./images/numero/56.png";
+import cincuenta7 from "./images/numero/57.png";
+import cincuenta8 from "./images/numero/58.png";
+import cincuenta9 from "./images/numero/59.png";
+import sesenta from "./images/numero/60.png";
+import sesenta1 from "./images/numero/61.png";
+import sesenta2 from "./images/numero/62.png";
+import sesenta3 from "./images/numero/63.png";
+import sesenta4 from "./images/numero/64.png";
+import sesenta5 from "./images/numero/65.png";
+import sesenta6 from "./images/numero/66.png";
+import sesenta7 from "./images/numero/67.png";
+import sesenta8 from "./images/numero/68.png";
+import sesenta9 from "./images/numero/69.png";
+import setenta from "./images/numero/70.png";
+import setenta1 from "./images/numero/71.png";
+import setenta2 from "./images/numero/72.png";
+import setenta3 from "./images/numero/73.png";
+import setenta4 from "./images/numero/74.png";
+import setenta5 from "./images/numero/75.png";
+import setenta6 from "./images/numero/76.png";
+import setenta7 from "./images/numero/77.png";
+import setenta8 from "./images/numero/78.png";
+import setenta9 from "./images/numero/79.png";
+import ochenta from "./images/numero/80.png";
+import ochenta1 from "./images/numero/81.png";
+import ochenta2 from "./images/numero/82.png";
+import ochenta3 from "./images/numero/83.png";
+import ochenta4 from "./images/numero/84.png";
+import ochenta5 from "./images/numero/85.png";
+import ochenta6 from "./images/numero/86.png";
+import ochenta7 from "./images/numero/87.png";
+import ochenta8 from "./images/numero/88.png";
+import ochenta9 from "./images/numero/89.png";
+import noventa from "./images/numero/90.png";
+import noventa1 from "./images/numero/91.png";
+import noventa2 from "./images/numero/92.png";
+import noventa3 from "./images/numero/93.png";
+import noventa4 from "./images/numero/94.png";
+import noventa5 from "./images/numero/95.png";
+import noventa6 from "./images/numero/96.png";
+import noventa7 from "./images/numero/97.png";
+import noventa8 from "./images/numero/98.png";
+import noventa9 from "./images/numero/99.png";
+import cien from "./images/numero/100.png";
+import p1 from "./images/directbox/p1.png";
+import p2 from "./images/directbox/p2.png";
+import zed1 from "./images/directbox/zed2.png";
+import zed2 from "./images/directbox/consolazed.png";
+import iem2050 from "./images/rfmic/2050.png";
+import iem1000 from "./images/rfmic/psm10001.png";
+import body1 from "./images/rfmic/body.png";
+import body2 from "./images/rfmic/body2.png";
+import body3 from "./images/rfmic/body3.png";
+import body4 from "./images/rfmic/iem2.png";
+import body5 from "./images/rfmic/iem3.png";
+import body6 from "./images/rfmic/psm1000.png";
+import turizo from "./images/turizo.png";
+import mau from "./images/mau.png";
+import camilo from "./images/camilo.png";
 
 //
 const images = () => {
   return (
     <>
+      <img src={camilo} alt="foto" />
+      <img src={mau} alt="foto" />
+      <img src={turizo} alt="foto" />
+      <img src={body6} alt="foto" />
+      <img src={body5} alt="foto" />
+      <img src={body4} alt="foto" />
+      <img src={body3} alt="foto" />
+      <img src={body2} alt="foto" />
+      <img src={body1} alt="foto" />
+      <img src={iem1000} alt="foto" />
+      <img src={iem2050} alt="foto" />
+      <img src={zed1} alt="foto" />
+      <img src={zed2} alt="foto" />
+      <img src={p1} alt="foto" />
+      <img src={p2} alt="foto" />
+      <img src={uno} alt="foto" />
+      <img src={dos} alt="foto" />
+      <img src={tres} alt="foto" />
+      <img src={cuatro1} alt="foto" />
+      <img src={cinco} alt="foto" />
+      <img src={seis} alt="foto" />
+      <img src={siete} alt="foto" />
+      <img src={ocho} alt="foto" />
+      <img src={nueve} alt="foto" />
+      <img src={diez} alt="foto" />
+      <img src={once} alt="foto" />
+      <img src={doce} alt="foto" />
+      <img src={trece} alt="foto" />
+      <img src={catorce} alt="foto" />
+      <img src={quince} alt="foto" />
+      <img src={diezseis} alt="foto" />
+      <img src={diezsiete} alt="foto" />
+      <img src={diezocho} alt="foto" />
+      <img src={dieznueve} alt="foto" />
+      <img src={veinte} alt="foto" />
+      <img src={veinteuno} alt="foto" />
+      <img src={veintedos} alt="foto" />
+      <img src={veintetres} alt="foto" />
+      <img src={veintecuatro} alt="foto" />
+      <img src={veintecinco} alt="foto" />
+      <img src={veinteseis} alt="foto" />
+      <img src={veintesiete} alt="foto" />
+      <img src={veinteocho} alt="foto" />
+      <img src={veintenueve} alt="foto" />
+      <img src={treinta} alt="foto" />
+      <img src={treinta1} alt="foto" />
+      <img src={treinta2} alt="foto" />
+      <img src={treinta3} alt="foto" />
+      <img src={treinta4} alt="foto" />
+      <img src={treinta5} alt="foto" />
+      <img src={treinta6} alt="foto" />
+      <img src={treinta7} alt="foto" />
+      <img src={treinta8} alt="foto" />
+      <img src={treinta9} alt="foto" />
+      <img src={cuarenta} alt="foto" />
+      <img src={cuarenta1} alt="foto" />
+      <img src={cuarenta2} alt="foto" />
+      <img src={cuarenta3} alt="foto" />
+      <img src={cuarenta4} alt="foto" />
+      <img src={cuarenta5} alt="foto" />
+      <img src={cuarenta6} alt="foto" />
+      <img src={cuarenta7} alt="foto" />
+      <img src={cuarenta8} alt="foto" />
+      <img src={cuarenta9} alt="foto" />
+      <img src={cincuenta} alt="foto" />
+      <img src={cincuenta1} alt="foto" />
+      <img src={cincuenta2} alt="foto" />
+      <img src={cincuenta3} alt="foto" />
+      <img src={cincuenta4} alt="foto" />
+      <img src={cincuenta5} alt="foto" />
+      <img src={cincuenta6} alt="foto" />
+      <img src={cincuenta7} alt="foto" />
+      <img src={cincuenta8} alt="foto" />
+      <img src={cincuenta9} alt="foto" />
+      <img src={sesenta} alt="foto" />
+      <img src={sesenta1} alt="foto" />
+      <img src={sesenta2} alt="foto" />
+      <img src={sesenta3} alt="foto" />
+      <img src={sesenta4} alt="foto" />
+      <img src={sesenta5} alt="foto" />
+      <img src={sesenta6} alt="foto" />
+      <img src={sesenta7} alt="foto" />
+      <img src={sesenta8} alt="foto" />
+      <img src={sesenta9} alt="foto" />
+      <img src={setenta} alt="foto" />
+      <img src={setenta1} alt="foto" />
+      <img src={setenta2} alt="foto" />
+      <img src={setenta3} alt="foto" />
+      <img src={setenta4} alt="foto" />
+      <img src={setenta5} alt="foto" />
+      <img src={setenta6} alt="foto" />
+      <img src={setenta7} alt="foto" />
+      <img src={setenta8} alt="foto" />
+      <img src={setenta9} alt="foto" />
+      <img src={ochenta} alt="foto" />
+      <img src={ochenta1} alt="foto" />
+      <img src={ochenta2} alt="foto" />
+      <img src={ochenta3} alt="foto" />
+      <img src={ochenta4} alt="foto" />
+      <img src={ochenta5} alt="foto" />
+      <img src={ochenta6} alt="foto" />
+      <img src={ochenta7} alt="foto" />
+      <img src={ochenta8} alt="foto" />
+      <img src={ochenta9} alt="foto" />
+      <img src={noventa} alt="foto" />
+      <img src={noventa1} alt="foto" />
+      <img src={noventa2} alt="foto" />
+      <img src={noventa3} alt="foto" />
+      <img src={noventa4} alt="foto" />
+      <img src={noventa5} alt="foto" />
+      <img src={noventa6} alt="foto" />
+      <img src={noventa7} alt="foto" />
+      <img src={noventa8} alt="foto" />
+      <img src={noventa9} alt="foto" />
+      <img src={cien} alt="foto" />
+
+      <img src={pasiva} alt="foto" />
+      <img src={tarima2} alt="foto" />
       <img src={toms1} alt="foto" />
       <img src={toms} alt="foto" />
       <img src={PANTALLA1} alt="foto" />
