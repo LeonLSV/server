@@ -512,7 +512,6 @@ import morelo from "./images/morelo.png";
 import jam from "./images/jam.png";
 import julian from "./images/julian.png";
 import zen from "./images/zen.png";
-
 //
 const images = () => {
   return (
