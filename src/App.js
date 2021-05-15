@@ -512,10 +512,20 @@ import morelo from "./images/morelo.png";
 import jam from "./images/jam.png";
 import julian from "./images/julian.png";
 import zen from "./images/zen.png";
+import DiegoALaVoz from "./images/DiegoALaVoz.png";
+import AlexLaar from "./images/AlexLaar.png";
+import mujer from "./images/mujer.png";
+import hombre from "./images/hombre.png";
+import hombre1 from "./images/hombre1.png";
 //
 const images = () => {
   return (
     <>
+      <img src={hombre1} alt="foto" />
+      <img src={hombre} alt="foto" />
+      <img src={mujer} alt="foto" />
+      <img src={DiegoALaVoz} alt="foto" />
+      <img src={AlexLaar} alt="foto" />
       <img src={zen} alt="foto" />
       <img src={julian} alt="foto" />
       <img src={jam} alt="foto" />
