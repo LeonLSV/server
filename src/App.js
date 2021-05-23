@@ -517,10 +517,246 @@ import AlexLaar from "./images/AlexLaar.png";
 import mujer from "./images/mujer.png";
 import hombre from "./images/hombre.png";
 import hombre1 from "./images/hombre1.png";
+import baila1 from "./images/baile/baila1.png";
+import baila2 from "./images/baile/baila2.png";
+import baila3 from "./images/baile/baila3.png";
+import baila4 from "./images/baile/baila4.png";
+import person1 from "./images/personas/person1.png";
+import person2 from "./images/personas/person2.png";
+import person3 from "./images/personas/person3.png";
+import person4 from "./images/personas/person4.png";
+import person5 from "./images/personas/person5.png";
+import person6 from "./images/personas/person6.png";
+import person7 from "./images/personas/person7.png";
+import person8 from "./images/personas/person8.png";
+import person9 from "./images/personas/person9.png";
+import person10 from "./images/personas/person10.png";
+import person11 from "./images/personas/person11.png";
+import person12 from "./images/personas/person12.png";
+import person13 from "./images/personas/person13.png";
+import person14 from "./images/personas/person14.png";
+import person15 from "./images/personas/person15.png";
+import person16 from "./images/personas/person16.png";
+import person17 from "./images/personas/person17.png";
+import person18 from "./images/personas/person18.png";
+import cryo from "./images/fx/cryo.png";
+import cryo1 from "./images/fx/cryo1.png";
+import fuego from "./images/fx/fuego.png";
+import fuego1 from "./images/fx/fuego1.png";
+import barra from "./images/luces/barra.png";
+import barra1 from "./images/luces/barra1.png";
+import barra2 from "./images/luces/barra2.png";
+import barra3 from "./images/luces/barra3.png";
+import flash from "./images/luces/flash.png";
+import led from "./images/luces/led.png";
+import leko from "./images/luces/leko.png";
+import LEKO1 from "./images/luces/LEKO1.png";
+import LEKO3 from "./images/luces/LEKO3.png";
+import LEKO4 from "./images/luces/LEKO4.png";
+import LEKO5 from "./images/luces/LEKO5.png";
+import luz from "./images/luces/luz.png";
+import luz1 from "./images/luces/luz1.png";
+import luz2 from "./images/luces/luz2.png";
+import luz3 from "./images/luces/luz3.png";
+import luz4 from "./images/luces/luz4.png";
+import luz5 from "./images/luces/luz5.png";
+import luz6 from "./images/luces/luz6.png";
+import luz7 from "./images/luces/luz7.png";
+import luz8 from "./images/luces/luz8.png";
+import luz9 from "./images/luces/luz9.png";
+import luz10 from "./images/luces/luz10.png";
+import luz11 from "./images/luces/luz11.png";
+import luz12 from "./images/luces/luz12.png";
+import minibrut from "./images/luces/minibrut.png";
+import minibrut1 from "./images/luces/minibrut1.png";
+import movil from "./images/luces/movil.png";
+import movilbeam from "./images/luces/movilbeam.png";
+import movilbeam1 from "./images/luces/movilbeam1.png";
+import escalera from "./images/estructura/escalera.png";
+import escalera1 from "./images/estructura/escalera1.png";
+import escalera2 from "./images/estructura/escalera2.png";
+import escalera3 from "./images/estructura/escalera3.png";
+import escalera4 from "./images/estructura/escalera4.png";
+import escalera5 from "./images/estructura/escalera5.png";
+import tru6 from "./images/estructura/tru6.png";
+import trus from "./images/estructura/trus.png";
+import trus1 from "./images/estructura/trus1.png";
+import trus2 from "./images/estructura/trus2.png";
+import trus3 from "./images/estructura/trus3.png";
+import trus4 from "./images/estructura/trus4.png";
+import trus5 from "./images/estructura/trus5.png";
+import trus6 from "./images/estructura/trus6.png";
+import trus7 from "./images/estructura/trus7.png";
+import valla from "./images/estructura/valla.png";
+import trus8 from "./images/estructura/trus8.png";
+import trus9 from "./images/estructura/trus9.png";
+import trus10 from "./images/estructura/trus10.png";
+import trus11 from "./images/estructura/trus11.png";
+import trus12 from "./images/estructura/trus12.png";
+import trus13 from "./images/estructura/trus13.png";
+import trus14 from "./images/estructura/trus14.png";
+import trus15 from "./images/estructura/trus15.png";
+import trus16 from "./images/estructura/trus16.png";
+import trus17 from "./images/estructura/trus17.png";
+import trus18 from "./images/estructura/trus18.png";
+import trus19 from "./images/estructura/trus19.png";
+import trus20 from "./images/estructura/trus20.png";
+import trus21 from "./images/estructura/trus21.png";
+import trus22 from "./images/estructura/trus22.png";
+import trus23 from "./images/estructura/trus23.png";
+import trus24 from "./images/estructura/trus24.png";
+import layher from "./images/estructura/layher.png";
+import layher1 from "./images/estructura/layher1.png";
+import layher2 from "./images/estructura/layher2.png";
+import layher3 from "./images/estructura/layher3.png";
+import layher4 from "./images/estructura/layher4.png";
+import layher5 from "./images/estructura/layher5.png";
+import layher6 from "./images/estructura/layher6.png";
+import layher7 from "./images/estructura/layher7.png";
+import layher8 from "./images/estructura/layher8.png";
+// import layher9 from "./images/estructura/layher9.png";
+// import layher10 from "./images/estructura/layher10.png";
+import layher11 from "./images/estructura/layher11.png";
+import layher12 from "./images/estructura/layher12.png";
+import layher13 from "./images/estructura/layher13.png";
+import motor1 from "./images/estructura/motor1.png";
+import motor2 from "./images/estructura/motor2.png";
+import muro2 from "./images/estructura/muro.png";
+import muro3 from "./images/estructura/muro1.png";
+import pantallagrande from "./images/estructura/pantallagrande.png";
+import pantallagrande1 from "./images/estructura/pantallagrande1.png";
+import podio from "./images/estructura/podio.png";
+import silla1 from "./images/estructura/silla.png";
+import tarima3 from "./images/estructura/tarima3.png";
+import tarima4 from "./images/estructura/tarima4.png";
+import tarima5 from "./images/estructura/tarima5.png";
+import tarima6 from "./images/estructura/tarima6.png";
+import pantalla2 from "./images/video/pantalla2.png";
+import pantalla3 from "./images/video/pantalla3.png";
+import pantall4 from "./images/video/pantall4.png";
 //
 const images = () => {
   return (
     <>
+      <img src={pantall4} alt="foto" />
+      <img src={pantalla3} alt="foto" />
+      <img src={pantalla2} alt="foto" />
+      <img src={PANTALLA1} alt="foto" />
+      <img src={PANTALLA} alt="foto" />
+      <img src={tarima6} alt="foto" />
+      <img src={tarima5} alt="foto" />
+      <img src={tarima4} alt="foto" />
+      <img src={tarima3} alt="foto" />
+      <img src={silla1} alt="foto" />
+      <img src={podio} alt="foto" />
+      <img src={pantallagrande1} alt="foto" />
+      <img src={pantallagrande} alt="foto" />
+      <img src={muro2} alt="foto" />
+      <img src={muro3} alt="foto" />
+      <img src={motor2} alt="foto" />
+      <img src={motor1} alt="foto" />
+      <img src={layher13} alt="foto" />
+      <img src={layher12} alt="foto" />
+      <img src={layher11} alt="foto" />
+      {/* <img src={layher10} alt="foto" /> */}
+      {/* <img src={layher9} alt="foto" /> */}
+      <img src={layher8} alt="foto" />
+      <img src={layher7} alt="foto" />
+      <img src={layher6} alt="foto" />
+      <img src={layher5} alt="foto" />
+      <img src={layher4} alt="foto" />
+      <img src={layher3} alt="foto" />
+      <img src={layher2} alt="foto" />
+      <img src={layher1} alt="foto" />
+      <img src={layher} alt="foto" />
+      <img src={trus24} alt="foto" />
+      <img src={trus23} alt="foto" />
+      <img src={trus22} alt="foto" />
+      <img src={trus21} alt="foto" />
+      <img src={trus20} alt="foto" />
+      <img src={trus19} alt="foto" />
+      <img src={trus18} alt="foto" />
+      <img src={trus17} alt="foto" />
+      <img src={trus16} alt="foto" />
+      <img src={trus15} alt="foto" />
+      <img src={trus14} alt="foto" />
+      <img src={trus13} alt="foto" />
+      <img src={trus12} alt="foto" />
+      <img src={trus11} alt="foto" />
+      <img src={trus10} alt="foto" />
+      <img src={trus9} alt="foto" />
+      <img src={trus8} alt="foto" />
+      <img src={valla} alt="foto" />
+      <img src={trus7} alt="foto" />
+      <img src={trus6} alt="foto" />
+      <img src={trus5} alt="foto" />
+      <img src={trus4} alt="foto" />
+      <img src={trus3} alt="foto" />
+      <img src={trus2} alt="foto" />
+      <img src={trus1} alt="foto" />
+      <img src={trus} alt="foto" />
+      <img src={tru6} alt="foto" />
+      <img src={escalera5} alt="foto" />
+      <img src={escalera4} alt="foto" />
+      <img src={escalera3} alt="foto" />
+      <img src={escalera2} alt="foto" />
+      <img src={escalera1} alt="foto" />
+      <img src={escalera} alt="foto" />
+      <img src={movilbeam1} alt="foto" />
+      <img src={movilbeam} alt="foto" />
+      <img src={movil} alt="foto" />
+      <img src={minibrut} alt="foto" />
+      <img src={minibrut1} alt="foto" />
+      <img src={luz12} alt="foto" />
+      <img src={luz11} alt="foto" />
+      <img src={luz10} alt="foto" />
+      <img src={luz9} alt="foto" />
+      <img src={luz8} alt="foto" />
+      <img src={luz7} alt="foto" />
+      <img src={luz6} alt="foto" />
+      <img src={luz5} alt="foto" />
+      <img src={luz4} alt="foto" />
+      <img src={luz3} alt="foto" />
+      <img src={luz2} alt="foto" />
+      <img src={luz1} alt="foto" />
+      <img src={luz} alt="foto" />
+      <img src={LEKO5} alt="foto" />
+      <img src={LEKO4} alt="foto" />
+      <img src={LEKO3} alt="foto" />
+      <img src={LEKO1} alt="foto" />
+      <img src={leko} alt="foto" />
+      <img src={led} alt="foto" />
+      <img src={flash} alt="foto" />
+      <img src={barra2} alt="foto" />
+      <img src={barra3} alt="foto" />
+      <img src={barra} alt="foto" />
+      <img src={barra1} alt="foto" />
+      <img src={fuego1} alt="foto" />
+      <img src={fuego} alt="foto" />
+      <img src={cryo1} alt="foto" />
+      <img src={cryo} alt="foto" />
+      <img src={person1} alt="foto" />
+      <img src={person2} alt="foto" />
+      <img src={person3} alt="foto" />
+      <img src={person4} alt="foto" />
+      <img src={person5} alt="foto" />
+      <img src={person6} alt="foto" />
+      <img src={person7} alt="foto" />
+      <img src={person8} alt="foto" />
+      <img src={person9} alt="foto" />
+      <img src={person10} alt="foto" />
+      <img src={person11} alt="foto" />
+      <img src={person12} alt="foto" />
+      <img src={person13} alt="foto" />
+      <img src={person14} alt="foto" />
+      <img src={person15} alt="foto" />
+      <img src={person16} alt="foto" />
+      <img src={person17} alt="foto" />
+      <img src={person18} alt="foto" />
+      <img src={baila4} alt="foto" />
+      <img src={baila3} alt="foto" />
+      <img src={baila2} alt="foto" />
+      <img src={baila1} alt="foto" />
       <img src={hombre1} alt="foto" />
       <img src={hombre} alt="foto" />
       <img src={mujer} alt="foto" />
@@ -654,8 +890,6 @@ const images = () => {
       <img src={tarima2} alt="foto" />
       <img src={toms1} alt="foto" />
       <img src={toms} alt="foto" />
-      <img src={PANTALLA1} alt="foto" />
-      <img src={PANTALLA} alt="foto" />
 
       <img src={ACORDEONn} alt="foto" />
       <img src={ACORDEON1} alt="foto" />
