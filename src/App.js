@@ -550,7 +550,6 @@ import barra3 from "./images/luces/barra3.png";
 import flash from "./images/luces/flash.png";
 import led from "./images/luces/led.png";
 import leko from "./images/luces/leko.png";
-import LEKO1 from "./images/luces/LEKO1.png";
 import LEKO3 from "./images/luces/LEKO3.png";
 import LEKO4 from "./images/luces/LEKO4.png";
 import LEKO5 from "./images/luces/LEKO5.png";
@@ -594,17 +593,12 @@ import trus10 from "./images/estructura/trus10.png";
 import trus11 from "./images/estructura/trus11.png";
 import trus12 from "./images/estructura/trus12.png";
 import trus13 from "./images/estructura/trus13.png";
-import trus14 from "./images/estructura/trus14.png";
-import trus15 from "./images/estructura/trus15.png";
 import trus16 from "./images/estructura/trus16.png";
 import trus17 from "./images/estructura/trus17.png";
 import trus18 from "./images/estructura/trus18.png";
-import trus19 from "./images/estructura/trus19.png";
 import trus20 from "./images/estructura/trus20.png";
 import trus21 from "./images/estructura/trus21.png";
 import trus22 from "./images/estructura/trus22.png";
-import trus23 from "./images/estructura/trus23.png";
-import trus24 from "./images/estructura/trus24.png";
 import layher from "./images/estructura/layher.png";
 import layher1 from "./images/estructura/layher1.png";
 import layher2 from "./images/estructura/layher2.png";
@@ -634,10 +628,12 @@ import tarima6 from "./images/estructura/tarima6.png";
 import pantalla2 from "./images/video/pantalla2.png";
 import pantalla3 from "./images/video/pantalla3.png";
 import pantall4 from "./images/video/pantall4.png";
+import groundsupport from "./images/estructura/groundsupport.png";
 //
 const images = () => {
   return (
     <>
+      <img src={groundsupport} alt="foto" />
       <img src={pantall4} alt="foto" />
       <img src={pantalla3} alt="foto" />
       <img src={pantalla2} alt="foto" />
@@ -660,26 +656,21 @@ const images = () => {
       <img src={layher11} alt="foto" />
       {/* <img src={layher10} alt="foto" /> */}
       {/* <img src={layher9} alt="foto" /> */}
-      <img src={layher8} alt="foto" />
-      <img src={layher7} alt="foto" />
-      <img src={layher6} alt="foto" />
       <img src={layher5} alt="foto" />
       <img src={layher4} alt="foto" />
       <img src={layher3} alt="foto" />
+      <img src={layher8} alt="foto" />
+      <img src={layher7} alt="foto" />
+      <img src={layher6} alt="foto" />
       <img src={layher2} alt="foto" />
       <img src={layher1} alt="foto" />
       <img src={layher} alt="foto" />
-      <img src={trus24} alt="foto" />
-      <img src={trus23} alt="foto" />
       <img src={trus22} alt="foto" />
       <img src={trus21} alt="foto" />
       <img src={trus20} alt="foto" />
-      <img src={trus19} alt="foto" />
       <img src={trus18} alt="foto" />
       <img src={trus17} alt="foto" />
       <img src={trus16} alt="foto" />
-      <img src={trus15} alt="foto" />
-      <img src={trus14} alt="foto" />
       <img src={trus13} alt="foto" />
       <img src={trus12} alt="foto" />
       <img src={trus11} alt="foto" />
@@ -723,7 +714,6 @@ const images = () => {
       <img src={LEKO5} alt="foto" />
       <img src={LEKO4} alt="foto" />
       <img src={LEKO3} alt="foto" />
-      <img src={LEKO1} alt="foto" />
       <img src={leko} alt="foto" />
       <img src={led} alt="foto" />
       <img src={flash} alt="foto" />
