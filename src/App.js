@@ -629,10 +629,18 @@ import pantalla2 from "./images/video/pantalla2.png";
 import pantalla3 from "./images/video/pantalla3.png";
 import pantall4 from "./images/video/pantall4.png";
 import groundsupport from "./images/estructura/groundsupport.png";
+import bateriatop from "./images/bateriatop.png";
+import bateria1 from "./images/bateria1.png";
+import m7 from "./images/m7.png";
+import ls9 from "./images/ls9.png";
 //
 const images = () => {
   return (
     <>
+      <img src={bateriatop} alt="foto" />
+      <img src={bateria1} alt="foto" />
+      <img src={m7} alt="foto" />
+      <img src={ls9} alt="foto" />
       <img src={groundsupport} alt="foto" />
       <img src={pantall4} alt="foto" />
       <img src={pantalla3} alt="foto" />
