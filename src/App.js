@@ -633,10 +633,26 @@ import bateriatop from "./images/bateriatop.png";
 import bateria1 from "./images/bateria1.png";
 import m7 from "./images/m7.png";
 import ls9 from "./images/ls9.png";
+import octapad from "./images/sinte/octapad.png";
+import tche from "./images/sinte/TcHelicon.png";
+import korgvocal from "./images/sinte/korgvocal.png";
+import moog from "./images/sinte/moog.png";
+import polyd from "./images/sinte/polyd.png";
+import mikro2 from "./images/sinte/mikro2.png";
+import AkaiMpd218 from "./images/sinte/AkaiMpd218.png";
+import NordDrum3P from "./images/sinte/NordDrum3P.png";
 //
 const images = () => {
   return (
     <>
+      <img src={NordDrum3P} alt="foto" />
+      <img src={AkaiMpd218} alt="foto" />
+      <img src={mikro2} alt="foto" />
+      <img src={polyd} alt="foto" />
+      <img src={moog} alt="foto" />
+      <img src={korgvocal} alt="foto" />
+      <img src={tche} alt="foto" />
+      <img src={octapad} alt="foto" />
       <img src={bateriatop} alt="foto" />
       <img src={bateria1} alt="foto" />
       <img src={m7} alt="foto" />
