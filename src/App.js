@@ -641,10 +641,24 @@ import polyd from "./images/sinte/polyd.png";
 import mikro2 from "./images/sinte/mikro2.png";
 import AkaiMpd218 from "./images/sinte/AkaiMpd218.png";
 import NordDrum3P from "./images/sinte/NordDrum3P.png";
+import baby from "./images/ampbajo/babybass.png";
+import baby2 from "./images/ampbajo/babybass2.png";
+import baby3 from "./images/ampbajo/babybass3.png";
+import abletonpush from "./images/sinte/abletonpush.png";
+import novationkeymini from "./images/sinte/novationkeymini.png";
+import piano from "./images/piano.png";
+import piano2 from "./images/piano2.png";
 //
 const images = () => {
   return (
     <>
+      <img src={piano2} alt="foto" />
+      <img src={piano} alt="foto" />
+      <img src={novationkeymini} alt="foto" />
+      <img src={abletonpush} alt="foto" />
+      <img src={baby3} alt="foto" />
+      <img src={baby2} alt="foto" />
+      <img src={baby} alt="foto" />
       <img src={NordDrum3P} alt="foto" />
       <img src={AkaiMpd218} alt="foto" />
       <img src={mikro2} alt="foto" />
