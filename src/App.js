@@ -648,10 +648,38 @@ import abletonpush from "./images/sinte/abletonpush.png";
 import novationkeymini from "./images/sinte/novationkeymini.png";
 import piano from "./images/piano.png";
 import piano2 from "./images/piano2.png";
+import event26a from "./images/das/EVENT26A.png";
+import event26ar from "./images/das/EVENT26AR.png";
+import event26a2 from "./images/das/EVENT26A2.png";
+import event26a2r from "./images/das/EVENT26A2R.png";
+import event26asideR from "./images/das/EVENT26AsideR.png";
+import event26aside from "./images/das/EVENT26Aside.png";
+import action525a from "./images/das/ACTION525A.png";
+import action525ar from "./images/das/ACTION525Ar.png";
+import aero40 from "./images/das/AERO40.png";
+import aero40r from "./images/das/AERO40r.png";
+import AERO40ARRAY from "./images/das/AERO40ARRAY.png";
+import AERO40ARRAYr from "./images/das/AERO40ARRAYr.png";
+import AERO50ARRAY from "./images/das/AERO50ARRAY.png";
+import AERO50ARRAYr from "./images/das/AERO50ARRAYr.png";
 //
 const images = () => {
   return (
     <>
+      <img src={AERO50ARRAYr} alt="foto" />
+      <img src={AERO50ARRAY} alt="foto" />
+      <img src={AERO40ARRAYr} alt="foto" />
+      <img src={AERO40ARRAY} alt="foto" />
+      <img src={aero40r} alt="foto" />
+      <img src={aero40} alt="foto" />
+      <img src={action525ar} alt="foto" />
+      <img src={action525a} alt="foto" />
+      <img src={event26aside} alt="foto" />
+      <img src={event26asideR} alt="foto" />
+      <img src={event26a2r} alt="foto" />
+      <img src={event26a2} alt="foto" />
+      <img src={event26ar} alt="foto" />
+      <img src={event26a} alt="foto" />
       <img src={piano2} alt="foto" />
       <img src={piano} alt="foto" />
       <img src={novationkeymini} alt="foto" />
