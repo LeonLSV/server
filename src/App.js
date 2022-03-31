@@ -662,11 +662,22 @@ import AERO40ARRAY from "./images/das/AERO40ARRAY.png";
 import AERO40ARRAYr from "./images/das/AERO40ARRAYr.png";
 import AERO50ARRAY from "./images/das/AERO50ARRAY.png";
 import AERO50ARRAYr from "./images/das/AERO50ARRAYr.png";
-// import AERO50ARRAYr from "./images/das/AERO50ARRAYr.png";
+import ALTEACOMBO from "./images/das/ALTEACOMBO.png";
+import ALTEACOMBOr from "./images/das/ALTEACOMBOr.png";
+import ARCO4T from "./images/das/ARCO4T.png";
+import ARCO4Tr from "./images/das/ARCO4Tr.png";
+import EVENT26AARRAY from "./images/das/EVENT26AARRAY.png";
+import EVENT26AARRAYr from "./images/das/EVENT26AARRAYr.png";
 //
 const images = () => {
   return (
     <>
+      <img src={EVENT26AARRAYr} alt="foto" />
+      <img src={EVENT26AARRAY} alt="foto" />
+      <img src={ARCO4Tr} alt="foto" />
+      <img src={ARCO4T} alt="foto" />
+      <img src={ALTEACOMBOr} alt="foto" />
+      <img src={ALTEACOMBO} alt="foto" />
       <img src={AERO50ARRAYr} alt="foto" />
       <img src={AERO50ARRAY} alt="foto" />
       <img src={AERO40ARRAYr} alt="foto" />
