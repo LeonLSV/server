@@ -668,10 +668,64 @@ import ARCO4T from "./images/das/ARCO4T.png";
 import ARCO4Tr from "./images/das/ARCO4Tr.png";
 import EVENT26AARRAY from "./images/das/EVENT26AARRAY.png";
 import EVENT26AARRAYr from "./images/das/EVENT26AARRAYr.png";
-//
+import EVENT26ASTACK from "./images/das/EVENT26ASTACK.png";
+import EVENT26ASTACKr from "./images/das/EVENT26ASTACKr.png";
+import EVENT210AARRAY from "./images/das/EVENT210AARRAY.png";
+import EVENT210AARRAYr from "./images/das/EVENT210AARRAYr.png";
+import EVENT210ASTACK from "./images/das/EVENT210ASTACK.png";
+import EVENT210ASTACKR from "./images/das/EVENT210ASTACKR.png";
+import EVENT212AARRAY from "./images/das/EVENT212AARRAY.png";
+import EVENT212AARRAYr from "./images/das/EVENT212AARRAYr.png";
+import LX218A from "./images/das/LX218A.png";
+import LX218Ar from "./images/das/LX218Ar.png";
+import PIEPAR from "./images/das/PIEPAR.png";
+import ROAD12A from "./images/das/ROAD12A.png";
+import ROAD12Ar from "./images/das/ROAD12Ar.png";
+import UX221 from "./images/das/UX221.png";
+import UX221r from "./images/das/UX221r.png";
+import VANTEC15 from "./images/das/VANTEC15.png";
+import VANTEC15r from "./images/das/VANTEC15r.png";
+import VANTEC15MONITOR from "./images/das/VANTEC15MONITOR.png";
+import VANTEC15MONITORr from "./images/das/VANTEC15MONITORr.png";
+import VANTEC20AARRAY from "./images/das/VANTEC20AARRAY.png";
+import VANTEC20AARRAYr from "./images/das/VANTEC20AARRAYr.png";
+import VANTEC20AARRAYBLANCO from "./images/das/VANTEC20AARRAYBLANCO.png";
+import VANTEC20AARRAYBLANCOr from "./images/das/VANTEC20AARRAYBLANCOr.png";
+import VANTEC118A from "./images/das/VANTEC118A.png";
+import VANTEC118Ar from "./images/das/VANTEC118Ar.png";
+import VANTECSIDE from "./images/das/VANTECSIDE.png";
+import VANTECSIDEr from "./images/das/VANTECSIDEr.png";
+
 const images = () => {
   return (
     <>
+      <img src={VANTECSIDEr} alt="foto" />
+      <img src={VANTECSIDE} alt="foto" />
+      <img src={VANTEC118Ar} alt="foto" />
+      <img src={VANTEC118A} alt="foto" />
+      <img src={VANTEC20AARRAYBLANCOr} alt="foto" />
+      <img src={VANTEC20AARRAYBLANCO} alt="foto" />
+      <img src={VANTEC20AARRAYr} alt="foto" />
+      <img src={VANTEC20AARRAY} alt="foto" />
+      <img src={VANTEC15MONITORr} alt="foto" />
+      <img src={VANTEC15MONITOR} alt="foto" />
+      <img src={VANTEC15r} alt="foto" />
+      <img src={VANTEC15} alt="foto" />
+      <img src={UX221r} alt="foto" />
+      <img src={UX221} alt="foto" />
+      <img src={ROAD12A} alt="foto" />
+      <img src={ROAD12Ar} alt="foto" />
+      <img src={PIEPAR} alt="foto" />
+      <img src={LX218Ar} alt="foto" />
+      <img src={LX218A} alt="foto" />
+      <img src={EVENT212AARRAYr} alt="foto" />
+      <img src={EVENT212AARRAY} alt="foto" />
+      <img src={EVENT210ASTACKR} alt="foto" />
+      <img src={EVENT210ASTACK} alt="foto" />
+      <img src={EVENT210AARRAYr} alt="foto" />
+      <img src={EVENT210AARRAY} alt="foto" />
+      <img src={EVENT26ASTACK} alt="foto" />
+      <img src={EVENT26ASTACKr} alt="foto" />
       <img src={EVENT26AARRAYr} alt="foto" />
       <img src={EVENT26AARRAY} alt="foto" />
       <img src={ARCO4Tr} alt="foto" />
