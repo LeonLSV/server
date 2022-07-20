@@ -695,10 +695,14 @@ import VANTEC118A from "./images/das/VANTEC118A.png";
 import VANTEC118Ar from "./images/das/VANTEC118Ar.png";
 import VANTECSIDE from "./images/das/VANTECSIDE.png";
 import VANTECSIDEr from "./images/das/VANTECSIDEr.png";
+import pierecto from "./images/rfmic/pierecto.png";
+import ventury from "./images/fx/ventury.png";
 
 const images = () => {
   return (
     <>
+      <img src={ventury} alt="foto" />
+      <img src={pierecto} alt="foto" />
       <img src={VANTECSIDEr} alt="foto" />
       <img src={VANTECSIDE} alt="foto" />
       <img src={VANTEC118Ar} alt="foto" />
