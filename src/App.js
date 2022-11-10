@@ -697,10 +697,154 @@ import VANTECSIDE from "./images/das/VANTECSIDE.png";
 import VANTECSIDEr from "./images/das/VANTECSIDEr.png";
 import pierecto from "./images/rfmic/pierecto.png";
 import ventury from "./images/fx/ventury.png";
+import TV from "./images/3d/TV.png";
+import bateria from "./images/3d/bateria.png";
+import bateria2 from "./images/3d/bateria1.png";
+import bateria3 from "./images/3d/bateria3.png";
+import bateria4 from "./images/3d/bateria4.png";
+import bateria5 from "./images/3d/bateria5.png";
+import bateria6 from "./images/3d/bateria6.png";
+import bateriafront from "./images/3d/bateriafront.png";
+import bateriaback from "./images/3d/bateriaback.png";
+import guitarraacustica from "./images/3d/guitarraacustica.png";
+import guitarraup from "./images/3d/guitarraup.png";
+import gtrtop from "./images/3d/gtrtop.png";
+import criolla from "./images/3d/criolla.png";
+import keytop from "./images/3d/keytop.png";
+import keyfront from "./images/3d/keyfront.png";
+import sinte from "./images/3d/sinte.png";
+import sinte1 from "./images/3d/sinte1.png";
+import mixer from "./images/3d/mixer.png";
+import mixer1 from "./images/3d/mixer1.png";
+import amplificador11 from "./images/3d/amplificador.png";
+import bass from "./images/3d/bass.png";
+import bass2 from "./images/3d/bass2.png";
+import bass3 from "./images/3d/bass3.png";
+import bass4 from "./images/3d/bass4.png";
+import ampli2 from "./images/3d/ampli2.png";
+import criolla1 from "./images/3d/criolla1.png";
+import criolla2 from "./images/3d/criolla2.png";
+import electrica from "./images/3d/electrica.png";
+import electrica1 from "./images/3d/electrica1.png";
+import electrica2 from "./images/3d/electrica2.png";
+import electrica3 from "./images/3d/electrica3.png";
+import electrica4 from "./images/3d/electrica4.png";
+import bajo from "./images/3d/bajo.png";
+import banjo from "./images/3d/banjo.png";
+import keygtr from "./images/3d/keygtr.png";
+import valla1 from "./images/3d/valla1.png";
+import bongo from "./images/3d/bongo.png";
+import pandereta from "./images/3d/pandereta.png";
+import piano4 from "./images/3d/piano4.png";
+import tuba1 from "./images/3d/tuba1.png";
+import trompeta1 from "./images/3d/trompeta1.png";
+import trombom1 from "./images/3d/trombom1.png";
+import apollo from "./images/3d/apollo.png";
+import ukelele from "./images/3d/ukelele.png";
+import cajon2 from "./images/3d/cajon2.png";
+import monitor1 from "./images/3d/monitor1.png";
+import monitor2 from "./images/3d/monitor2.png";
+import case1 from "./images/3d/case1.png";
+import case2 from "./images/3d/case2.png";
+import tarima7 from "./images/3d/tarima7.png";
+import tarima8 from "./images/3d/tarima8.png";
+import guiro1 from "./images/3d/guiro1.png";
+import piano3 from "./images/3d/piano3.png";
+import piano5 from "./images/3d/piano5.png";
+import piano6 from "./images/3d/piano6.png";
+import cencerro from "./images/3d/cencerro.png";
+import campana from "./images/3d/campana.png";
+import compu1 from "./images/3d/compu1.png";
+import compu2 from "./images/3d/compu2.png";
+import atril from "./images/3d/atril.png";
+import piedemic from "./images/3d/piedemic.png";
+import piedemic1 from "./images/3d/piedemic1.png";
+import piedemic3 from "./images/3d/piedemic3.png";
+import microfonoshure from "./images/3d/microfonoshure.png";
+import pedalera from "./images/3d/pedalera.png";
+import pantalla from "./images/3d/pantalla.png";
+import mesa from "./images/3d/mesa.png";
+import cello from "./images/3d/cello.png";
+import conga from "./images/3d/conga.png";
+import corriente2 from "./images/3d/corriente2.png";
+import corriente4 from "./images/3d/corriente4.png";
 
 const images = () => {
   return (
     <>
+      <img src={corriente4} alt="foto" />
+      <img src={corriente2} alt="foto" />
+      <img src={conga} alt="foto" />
+      <img src={cello} alt="foto" />
+      <img src={mesa} alt="foto" />
+      <img src={pantalla} alt="foto" />
+      <img src={pedalera} alt="foto" />
+      <img src={microfonoshure} alt="foto" />
+      <img src={piedemic3} alt="foto" />
+      <img src={piedemic1} alt="foto" />
+      <img src={piedemic} alt="foto" />
+      <img src={atril} alt="foto" />
+      <img src={compu2} alt="foto" />
+      <img src={compu1} alt="foto" />
+      <img src={campana} alt="foto" />
+      <img src={cencerro} alt="foto" />
+      <img src={piano6} alt="foto" />
+      <img src={piano3} alt="foto" />
+      <img src={piano5} alt="foto" />
+      <img src={guiro1} alt="foto" />
+      <img src={tarima8} alt="foto" />
+      <img src={tarima7} alt="foto" />
+      <img src={monitor2} alt="foto" />
+      <img src={monitor1} alt="foto" />
+      <img src={case2} alt="foto" />
+      <img src={case1} alt="foto" />
+      <img src={cajon2} alt="foto" />
+      <img src={ukelele} alt="foto" />
+      <img src={apollo} alt="foto" />
+      <img src={trombom1} alt="foto" />
+      <img src={trompeta1} alt="foto" />
+      <img src={tuba1} alt="foto" />
+      <img src={piano4} alt="foto" />
+      <img src={pandereta} alt="foto" />
+      <img src={bongo} alt="foto" />
+      <img src={valla1} alt="foto" />
+      <img src={keygtr} alt="foto" />
+      <img src={banjo} alt="foto" />
+      <img src={electrica4} alt="foto" />
+      <img src={electrica3} alt="foto" />
+      <img src={electrica2} alt="foto" />
+      <img src={electrica1} alt="foto" />
+      <img src={electrica} alt="foto" />
+      <img src={criolla2} alt="foto" />
+      <img src={criolla1} alt="foto" />
+      <img src={amplificador11} alt="foto" />
+      <img src={ampli2} alt="foto" />
+      <img src={bass4} alt="foto" />
+      <img src={bass3} alt="foto" />
+      <img src={bass2} alt="foto" />
+      <img src={bass} alt="foto" />
+      <img src={bajo} alt="foto" />
+      <img src={mixer1} alt="foto" />
+      <img src={mixer} alt="foto" />
+      <img src={sinte1} alt="foto" />
+      <img src={sinte} alt="foto" />
+      <img src={keyfront} alt="foto" />
+      <img src={keytop} alt="foto" />
+      <img src={criolla} alt="foto" />
+      <img src={criolla2} alt="foto" />
+      <img src={criolla1} alt="foto" />
+      <img src={gtrtop} alt="foto" />
+      <img src={guitarraup} alt="foto" />
+      <img src={guitarraacustica} alt="foto" />
+      <img src={bateriaback} alt="foto" />
+      <img src={bateriafront} alt="foto" />
+      <img src={bateria6} alt="foto" />
+      <img src={bateria5} alt="foto" />
+      <img src={bateria4} alt="foto" />
+      <img src={bateria3} alt="foto" />
+      <img src={bateria2} alt="foto" />
+      <img src={bateria} alt="foto" />
+      <img src={TV} alt="foto" />
       <img src={ventury} alt="foto" />
       <img src={pierecto} alt="foto" />
       <img src={VANTECSIDEr} alt="foto" />
