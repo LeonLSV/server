@@ -748,6 +748,8 @@ import case1 from "./images/3d/case1.png";
 import case2 from "./images/3d/case2.png";
 import tarima7 from "./images/3d/tarima7.png";
 import tarima8 from "./images/3d/tarima8.png";
+import tarima9 from "./images/3d/tarima9.png";
+import tarima10 from "./images/3d/tarima10.png";
 import guiro1 from "./images/3d/guiro1.png";
 import piano3 from "./images/3d/piano3.png";
 import piano5 from "./images/3d/piano5.png";
@@ -766,15 +768,45 @@ import pantalla from "./images/3d/pantalla.png";
 import mesa from "./images/3d/mesa.png";
 import cello from "./images/3d/cello.png";
 import conga from "./images/3d/conga.png";
+import conga4 from "./images/3d/conga4.png";
 import corriente2 from "./images/3d/corriente2.png";
 import corriente4 from "./images/3d/corriente4.png";
+import dj from "./images/3d/dj.png";
+import dj0 from "./images/3d/dj0.png";
+import lara from "./images/3d/lara.png";
+import sublara from "./images/3d/sublara.png";
+import krk from "./images/3d/krk.png";
+import flecha5 from "./images/3d/flecha5.png";
+import flecha6 from "./images/3d/flecha6.png";
+import truss from "./images/3d/truss.png";
+import estructura from "./images/3d/estructura.png";
+import estructura1 from "./images/3d/estructura1.png";
+import setupguitarra from "./images/3d/setupguitarra.png";
+import silla2 from "./images/3d/silla2.png";
+import octa from "./images/sinte/octa.png";
+
 
 const images = () => {
   return (
     <>
+
+      <img src={octa} alt="foto" />
+      <img src={silla2} alt="foto" />
+      <img src={setupguitarra} alt="foto" />
+      <img src={estructura1} alt="foto" />
+      <img src={estructura} alt="foto" />
+      <img src={truss} alt="foto" />
+      <img src={flecha6} alt="foto" />
+      <img src={flecha5} alt="foto" />
+      <img src={krk} alt="foto" />
+      <img src={sublara} alt="foto" />
+      <img src={lara} alt="foto" />
+      <img src={dj0} alt="foto" />
+      <img src={dj} alt="foto" />
       <img src={corriente4} alt="foto" />
       <img src={corriente2} alt="foto" />
       <img src={conga} alt="foto" />
+      <img src={conga4} alt="foto" />
       <img src={cello} alt="foto" />
       <img src={mesa} alt="foto" />
       <img src={pantalla} alt="foto" />
@@ -792,6 +824,8 @@ const images = () => {
       <img src={piano3} alt="foto" />
       <img src={piano5} alt="foto" />
       <img src={guiro1} alt="foto" />
+      <img src={tarima10} alt="foto" />
+      <img src={tarima9} alt="foto" />
       <img src={tarima8} alt="foto" />
       <img src={tarima7} alt="foto" />
       <img src={monitor2} alt="foto" />
