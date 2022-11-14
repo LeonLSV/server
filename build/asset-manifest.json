@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/static/js/main.90ca0e76.chunk.js",
-    "main.js.map": "/static/js/main.90ca0e76.chunk.js.map",
+    "main.js": "/static/js/main.eae97d14.chunk.js",
+    "main.js.map": "/static/js/main.eae97d14.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bbfe32fd.js",
     "runtime-main.js.map": "/static/js/runtime-main.bbfe32fd.js.map",
     "static/js/2.f3dbd7d2.chunk.js": "/static/js/2.f3dbd7d2.chunk.js",
@@ -108,8 +108,6 @@
     "static/media/solidrums3.fef946e4.png": "/static/media/solidrums3.fef946e4.png",
     "static/media/tarima10.1306c2f2.png": "/static/media/tarima10.1306c2f2.png",
     "static/media/tarima11.66580e76.png": "/static/media/tarima11.66580e76.png",
-    "static/media/tarima12.ce05a82f.png": "/static/media/tarima12.ce05a82f.png",
-    "static/media/tarima7.903d9992.png": "/static/media/tarima7.903d9992.png",
     "static/media/tarima8.a8a21a3e.png": "/static/media/tarima8.a8a21a3e.png",
     "static/media/tarima9.d0d95f00.png": "/static/media/tarima9.d0d95f00.png",
     "static/media/tru6.dcac5e6b.png": "/static/media/tru6.dcac5e6b.png",
@@ -141,6 +139,6 @@
     "static/js/runtime-main.bbfe32fd.js",
     "static/js/2.f3dbd7d2.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.90ca0e76.chunk.js"
+    "static/js/main.eae97d14.chunk.js"
   ]
 }
