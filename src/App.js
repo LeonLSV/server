@@ -750,6 +750,10 @@ import tarima7 from "./images/3d/tarima7.png";
 import tarima8 from "./images/3d/tarima8.png";
 import tarima9 from "./images/3d/tarima9.png";
 import tarima10 from "./images/3d/tarima10.png";
+import tarima11 from "./images/3d/tarima11.png";
+import tarima12 from "./images/3d/tarima12.png";
+import tarimaescalera from "./images/3d/escaleratarima.png";
+import tarimaescalera1 from "./images/3d/escaleratarima1.png";
 import guiro1 from "./images/3d/guiro1.png";
 import piano3 from "./images/3d/piano3.png";
 import piano5 from "./images/3d/piano5.png";
@@ -774,6 +778,7 @@ import corriente4 from "./images/3d/corriente4.png";
 import dj from "./images/3d/dj.png";
 import dj0 from "./images/3d/dj0.png";
 import lara from "./images/3d/lara.png";
+import laral from "./images/3d/laraL.png";
 import sublara from "./images/3d/sublara.png";
 import krk from "./images/3d/krk.png";
 import flecha5 from "./images/3d/flecha5.png";
@@ -801,6 +806,7 @@ const images = () => {
       <img src={krk} alt="foto" />
       <img src={sublara} alt="foto" />
       <img src={lara} alt="foto" />
+      <img src={laral} alt="foto" />
       <img src={dj0} alt="foto" />
       <img src={dj} alt="foto" />
       <img src={corriente4} alt="foto" />
@@ -824,6 +830,10 @@ const images = () => {
       <img src={piano3} alt="foto" />
       <img src={piano5} alt="foto" />
       <img src={guiro1} alt="foto" />
+      <img src={tarimaescalera} alt="foto" />
+      <img src={tarima12} alt="foto" />
+      <img src={tarimaescalera1} alt="foto" />
+      <img src={tarima11} alt="foto" />
       <img src={tarima10} alt="foto" />
       <img src={tarima9} alt="foto" />
       <img src={tarima8} alt="foto" />
