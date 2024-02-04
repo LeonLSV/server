@@ -789,12 +789,18 @@ import estructura1 from "./images/3d/estructura1.png";
 import setupguitarra from "./images/3d/setupguitarra.png";
 import silla2 from "./images/3d/silla2.png";
 import octa from "./images/sinte/octa.png";
+import bateria7 from "./images/Bateria/bateria7.png";
+import bateria8 from "./images/Bateria/bateria8.png";
+import bateria9 from "./images/Bateria/bateria9.png";
 
 
 const images = () => {
   return (
     <>
 
+      <img src={bateria9} alt="foto" />
+      <img src={bateria8} alt="foto" />
+      <img src={bateria7} alt="foto" />
       <img src={octa} alt="foto" />
       <img src={silla2} alt="foto" />
       <img src={setupguitarra} alt="foto" />
